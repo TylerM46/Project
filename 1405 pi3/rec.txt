@@ -1,0 +1,1362 @@
+GPIO 26 level 0 at tick 1286937613
+GPIO 26 level 1 at tick 1286937643
+GPIO 26 level 0 at tick 1286937673
+GPIO 26 level 1 at tick 1286937693
+GPIO 26 level 0 at tick 1286937703
+GPIO 26 level 1 at tick 1286937712
+GPIO 26 level 0 at tick 1286937727
+GPIO 26 level 1 at tick 1286937737
+GPIO 26 level 0 at tick 1286937747
+GPIO 26 level 1 at tick 1286937757
+GPIO 26 level 0 at tick 1286937772
+GPIO 26 level 1 at tick 1286937782
+GPIO 26 level 0 at tick 1286937792
+GPIO 26 level 1 at tick 1286937802
+GPIO 26 level 0 at tick 1286937832
+GPIO 26 level 1 at tick 1286937862
+GPIO 26 level 0 at tick 1286937892
+GPIO 26 level 1 at tick 1286937912
+GPIO 26 level 0 at tick 1286937922
+GPIO 26 level 1 at tick 1286937932
+GPIO 26 level 0 at tick 1286937947
+GPIO 26 level 1 at tick 1286937957
+GPIO 26 level 0 at tick 1286937967
+GPIO 26 level 1 at tick 1286937977
+GPIO 26 level 0 at tick 1286937992
+GPIO 26 level 1 at tick 1286938002
+GPIO 26 level 0 at tick 1286938012
+GPIO 26 level 1 at tick 1286938022
+GPIO 26 level 0 at tick 1286938052
+GPIO 26 level 1 at tick 1286938082
+GPIO 26 level 0 at tick 1286938112
+GPIO 26 level 1 at tick 1286938132
+GPIO 26 level 0 at tick 1286938142
+GPIO 26 level 1 at tick 1286938152
+GPIO 26 level 0 at tick 1286938167
+GPIO 26 level 1 at tick 1286938177
+GPIO 26 level 0 at tick 1286938187
+GPIO 26 level 1 at tick 1286938197
+GPIO 26 level 0 at tick 1286938207
+GPIO 26 level 1 at tick 1286938222
+GPIO 26 level 0 at tick 1286938232
+GPIO 26 level 1 at tick 1286938242
+GPIO 26 level 0 at tick 1286938272
+GPIO 26 level 1 at tick 1286938302
+GPIO 26 level 0 at tick 1286938332
+GPIO 26 level 1 at tick 1286938352
+GPIO 26 level 0 at tick 1286938362
+GPIO 26 level 1 at tick 1286938372
+GPIO 26 level 0 at tick 1286938387
+GPIO 26 level 1 at tick 1286938397
+GPIO 26 level 0 at tick 1286938407
+GPIO 26 level 1 at tick 1286938417
+GPIO 26 level 0 at tick 1286938427
+GPIO 26 level 1 at tick 1286938442
+GPIO 26 level 0 at tick 1286938452
+GPIO 26 level 1 at tick 1286938464
+GPIO 26 level 0 at tick 1286938494
+GPIO 26 level 1 at tick 1286938524
+GPIO 26 level 0 at tick 1286938554
+GPIO 26 level 1 at tick 1286938574
+GPIO 26 level 0 at tick 1286938582
+GPIO 26 level 1 at tick 1286938592
+GPIO 26 level 0 at tick 1286938607
+GPIO 26 level 1 at tick 1286938617
+GPIO 26 level 0 at tick 1286938627
+GPIO 26 level 1 at tick 1286938637
+GPIO 26 level 0 at tick 1286938652
+GPIO 26 level 1 at tick 1286938662
+GPIO 26 level 0 at tick 1286938672
+GPIO 26 level 1 at tick 1286938682
+GPIO 26 level 0 at tick 1286938712
+GPIO 26 level 1 at tick 1286938742
+GPIO 26 level 0 at tick 1286938772
+GPIO 26 level 1 at tick 1286938792
+GPIO 26 level 0 at tick 1286938802
+GPIO 26 level 1 at tick 1286938812
+GPIO 26 level 0 at tick 1286938827
+GPIO 26 level 1 at tick 1286938837
+GPIO 26 level 0 at tick 1286938847
+GPIO 26 level 1 at tick 1286938857
+GPIO 26 level 0 at tick 1286938872
+GPIO 26 level 1 at tick 1286938882
+GPIO 26 level 0 at tick 1286938892
+GPIO 26 level 1 at tick 1286938902
+GPIO 26 level 0 at tick 1286938932
+GPIO 26 level 1 at tick 1286938962
+GPIO 26 level 0 at tick 1286938992
+GPIO 26 level 1 at tick 1286939012
+GPIO 26 level 0 at tick 1286939022
+GPIO 26 level 1 at tick 1286939032
+GPIO 26 level 0 at tick 1286939047
+GPIO 26 level 1 at tick 1286939057
+GPIO 26 level 0 at tick 1286939067
+GPIO 26 level 1 at tick 1286939077
+GPIO 26 level 0 at tick 1286939092
+GPIO 26 level 1 at tick 1286939102
+GPIO 26 level 0 at tick 1286939112
+GPIO 26 level 1 at tick 1286939122
+GPIO 26 level 0 at tick 1286939152
+GPIO 26 level 1 at tick 1286939182
+GPIO 26 level 0 at tick 1286939212
+GPIO 26 level 1 at tick 1286939232
+GPIO 26 level 0 at tick 1286939242
+GPIO 26 level 1 at tick 1286939252
+GPIO 26 level 0 at tick 1286939267
+GPIO 26 level 1 at tick 1286939272
+GPIO 26 level 0 at tick 1286939287
+GPIO 26 level 1 at tick 1286939297
+GPIO 26 level 0 at tick 1286939312
+GPIO 26 level 1 at tick 1286939322
+GPIO 26 level 0 at tick 1286939333
+GPIO 26 level 1 at tick 1286939343
+GPIO 26 level 0 at tick 1286939373
+GPIO 26 level 1 at tick 1286939403
+GPIO 26 level 0 at tick 1286939433
+GPIO 26 level 1 at tick 1286939457
+GPIO 26 level 0 at tick 1286939462
+GPIO 26 level 1 at tick 1286939472
+GPIO 26 level 0 at tick 1286939487
+GPIO 26 level 1 at tick 1286939497
+GPIO 26 level 0 at tick 1286939507
+GPIO 26 level 1 at tick 1286939517
+GPIO 26 level 0 at tick 1286939532
+GPIO 26 level 1 at tick 1286939542
+GPIO 26 level 0 at tick 1286939552
+GPIO 26 level 1 at tick 1286939562
+GPIO 26 level 0 at tick 1286939592
+GPIO 26 level 1 at tick 1286939622
+GPIO 26 level 0 at tick 1286939652
+GPIO 26 level 1 at tick 1286939672
+GPIO 26 level 0 at tick 1286939682
+GPIO 26 level 1 at tick 1286939692
+GPIO 26 level 0 at tick 1286939707
+GPIO 26 level 1 at tick 1286939717
+GPIO 26 level 0 at tick 1286939727
+GPIO 26 level 1 at tick 1286939737
+GPIO 26 level 0 at tick 1286939747
+GPIO 26 level 1 at tick 1286939762
+GPIO 26 level 0 at tick 1286939772
+GPIO 26 level 1 at tick 1286939782
+GPIO 26 level 0 at tick 1286939812
+GPIO 26 level 1 at tick 1286939842
+GPIO 26 level 0 at tick 1286939872
+GPIO 26 level 1 at tick 1286939892
+GPIO 26 level 0 at tick 1286939902
+GPIO 26 level 1 at tick 1286939912
+GPIO 26 level 0 at tick 1286939927
+GPIO 26 level 1 at tick 1286939937
+GPIO 26 level 0 at tick 1286939947
+GPIO 26 level 1 at tick 1286939957
+GPIO 26 level 0 at tick 1286939972
+GPIO 26 level 1 at tick 1286939982
+GPIO 26 level 0 at tick 1286939992
+GPIO 26 level 1 at tick 1286940002
+GPIO 26 level 0 at tick 1286940032
+GPIO 26 level 1 at tick 1286940062
+GPIO 26 level 0 at tick 1286940092
+GPIO 26 level 1 at tick 1286940112
+GPIO 26 level 0 at tick 1286940122
+GPIO 26 level 1 at tick 1286940132
+GPIO 26 level 0 at tick 1286940147
+GPIO 26 level 1 at tick 1286940157
+GPIO 26 level 0 at tick 1286940167
+GPIO 26 level 1 at tick 1286940177
+GPIO 26 level 0 at tick 1286940192
+GPIO 26 level 1 at tick 1286940202
+GPIO 26 level 0 at tick 1286940212
+GPIO 26 level 1 at tick 1286940222
+GPIO 26 level 0 at tick 1286940252
+GPIO 26 level 1 at tick 1286940282
+GPIO 26 level 0 at tick 1286940312
+GPIO 26 level 1 at tick 1286940332
+GPIO 26 level 0 at tick 1286940342
+GPIO 26 level 1 at tick 1286940352
+GPIO 26 level 0 at tick 1286940367
+GPIO 26 level 1 at tick 1286940377
+GPIO 26 level 0 at tick 1286940387
+GPIO 26 level 1 at tick 1286940397
+GPIO 26 level 0 at tick 1286940412
+GPIO 26 level 1 at tick 1286940422
+GPIO 26 level 0 at tick 1286940432
+GPIO 26 level 1 at tick 1286940442
+GPIO 26 level 0 at tick 1286940474
+GPIO 26 level 1 at tick 1286940504
+GPIO 26 level 0 at tick 1286940534
+GPIO 26 level 1 at tick 1286940554
+GPIO 26 level 0 at tick 1286940564
+GPIO 26 level 1 at tick 1286940574
+GPIO 26 level 0 at tick 1286940587
+GPIO 26 level 1 at tick 1286940597
+GPIO 26 level 0 at tick 1286940607
+GPIO 26 level 1 at tick 1286940617
+GPIO 26 level 0 at tick 1286940632
+GPIO 26 level 1 at tick 1286940642
+GPIO 26 level 0 at tick 1286940652
+GPIO 26 level 1 at tick 1286940662
+GPIO 26 level 0 at tick 1286940692
+GPIO 26 level 1 at tick 1286940722
+GPIO 26 level 0 at tick 1286940752
+GPIO 26 level 1 at tick 1286940772
+GPIO 26 level 0 at tick 1286940782
+GPIO 26 level 1 at tick 1286940792
+GPIO 26 level 0 at tick 1286940807
+GPIO 26 level 1 at tick 1286940817
+GPIO 26 level 0 at tick 1286940827
+GPIO 26 level 1 at tick 1286940837
+GPIO 26 level 0 at tick 1286940852
+GPIO 26 level 1 at tick 1286940857
+GPIO 26 level 0 at tick 1286940872
+GPIO 26 level 1 at tick 1286940882
+GPIO 26 level 0 at tick 1286940912
+GPIO 26 level 1 at tick 1286940942
+GPIO 26 level 0 at tick 1286940972
+GPIO 26 level 1 at tick 1286940992
+GPIO 26 level 0 at tick 1286941002
+GPIO 26 level 1 at tick 1286941012
+GPIO 26 level 0 at tick 1286941027
+GPIO 26 level 1 at tick 1286941037
+GPIO 26 level 0 at tick 1286941047
+GPIO 26 level 1 at tick 1286941057
+GPIO 26 level 0 at tick 1286941072
+GPIO 26 level 1 at tick 1286941082
+GPIO 26 level 0 at tick 1286941092
+GPIO 26 level 1 at tick 1286941102
+GPIO 26 level 0 at tick 1286941132
+GPIO 26 level 1 at tick 1286941162
+GPIO 26 level 0 at tick 1286941192
+GPIO 26 level 1 at tick 1286941212
+GPIO 26 level 0 at tick 1286941222
+GPIO 26 level 1 at tick 1286941232
+GPIO 26 level 0 at tick 1286941247
+GPIO 26 level 1 at tick 1286941257
+GPIO 26 level 0 at tick 1286941267
+GPIO 26 level 1 at tick 1286941277
+GPIO 26 level 0 at tick 1286941287
+GPIO 26 level 1 at tick 1286941302
+GPIO 26 level 0 at tick 1286941312
+GPIO 26 level 1 at tick 1286941322
+GPIO 26 level 0 at tick 1286941353
+GPIO 26 level 1 at tick 1286941383
+GPIO 26 level 0 at tick 1286941413
+GPIO 26 level 1 at tick 1286941433
+GPIO 26 level 0 at tick 1286941443
+GPIO 26 level 1 at tick 1286941453
+GPIO 26 level 0 at tick 1286941467
+GPIO 26 level 1 at tick 1286941477
+GPIO 26 level 0 at tick 1286941487
+GPIO 26 level 1 at tick 1286941497
+GPIO 26 level 0 at tick 1286941512
+GPIO 26 level 1 at tick 1286941522
+GPIO 26 level 0 at tick 1286941532
+GPIO 26 level 1 at tick 1286941542
+GPIO 26 level 0 at tick 1286941572
+GPIO 26 level 1 at tick 1286941602
+GPIO 26 level 0 at tick 1286941632
+GPIO 26 level 1 at tick 1286941652
+GPIO 26 level 0 at tick 1286941662
+GPIO 26 level 1 at tick 1286941672
+GPIO 26 level 0 at tick 1286941687
+GPIO 26 level 1 at tick 1286941697
+GPIO 26 level 0 at tick 1286941707
+GPIO 26 level 1 at tick 1286941717
+GPIO 26 level 0 at tick 1286941732
+GPIO 26 level 1 at tick 1286941742
+GPIO 26 level 0 at tick 1286941752
+GPIO 26 level 1 at tick 1286941762
+GPIO 26 level 0 at tick 1286941792
+GPIO 26 level 1 at tick 1286941822
+GPIO 26 level 0 at tick 1286941852
+GPIO 26 level 1 at tick 1286941872
+GPIO 26 level 0 at tick 1286941882
+GPIO 26 level 1 at tick 1286941892
+GPIO 26 level 0 at tick 1286941907
+GPIO 26 level 1 at tick 1286941917
+GPIO 26 level 0 at tick 1286941927
+GPIO 26 level 1 at tick 1286941937
+GPIO 26 level 0 at tick 1286941952
+GPIO 26 level 1 at tick 1286941962
+GPIO 26 level 0 at tick 1286941972
+GPIO 26 level 1 at tick 1286941982
+GPIO 26 level 0 at tick 1286942012
+GPIO 26 level 1 at tick 1286942042
+GPIO 26 level 0 at tick 1286942072
+GPIO 26 level 1 at tick 1286942092
+GPIO 26 level 0 at tick 1286942102
+GPIO 26 level 1 at tick 1286942112
+GPIO 26 level 0 at tick 1286942127
+GPIO 26 level 1 at tick 1286942137
+GPIO 26 level 0 at tick 1286942147
+GPIO 26 level 1 at tick 1286942157
+GPIO 26 level 0 at tick 1286942172
+GPIO 26 level 1 at tick 1286942182
+GPIO 26 level 0 at tick 1286942192
+GPIO 26 level 1 at tick 1286942202
+GPIO 26 level 0 at tick 1286942232
+GPIO 26 level 1 at tick 1286942262
+GPIO 26 level 0 at tick 1286942292
+GPIO 26 level 1 at tick 1286942312
+GPIO 26 level 0 at tick 1286942322
+GPIO 26 level 1 at tick 1286942332
+GPIO 26 level 0 at tick 1286942352
+GPIO 26 level 1 at tick 1286942357
+GPIO 26 level 0 at tick 1286942372
+GPIO 26 level 1 at tick 1286942382
+GPIO 26 level 0 at tick 1286942392
+GPIO 26 level 1 at tick 1286942402
+GPIO 26 level 0 at tick 1286942417
+GPIO 26 level 1 at tick 1286942427
+GPIO 26 level 0 at tick 1286942459
+GPIO 26 level 1 at tick 1286942489
+GPIO 26 level 0 at tick 1286942519
+GPIO 26 level 1 at tick 1286942539
+GPIO 26 level 0 at tick 1286942549
+GPIO 26 level 1 at tick 1286942559
+GPIO 26 level 0 at tick 1286942574
+GPIO 26 level 1 at tick 1286942579
+GPIO 26 level 0 at tick 1286942592
+GPIO 26 level 1 at tick 1286942602
+GPIO 26 level 0 at tick 1286942612
+GPIO 26 level 1 at tick 1286942622
+GPIO 26 level 0 at tick 1286942637
+GPIO 26 level 1 at tick 1286942647
+GPIO 26 level 0 at tick 1286942677
+GPIO 26 level 1 at tick 1286942707
+GPIO 26 level 0 at tick 1286942737
+GPIO 26 level 1 at tick 1286942757
+GPIO 26 level 0 at tick 1286942767
+GPIO 26 level 1 at tick 1286942777
+GPIO 26 level 0 at tick 1286942792
+GPIO 26 level 1 at tick 1286942797
+GPIO 26 level 0 at tick 1286942812
+GPIO 26 level 1 at tick 1286942822
+GPIO 26 level 0 at tick 1286942832
+GPIO 26 level 1 at tick 1286942842
+GPIO 26 level 0 at tick 1286942857
+GPIO 26 level 1 at tick 1286942867
+GPIO 26 level 0 at tick 1286942897
+GPIO 26 level 1 at tick 1286942927
+GPIO 26 level 0 at tick 1286942957
+GPIO 26 level 1 at tick 1286942977
+GPIO 26 level 0 at tick 1286942987
+GPIO 26 level 1 at tick 1286942997
+GPIO 26 level 0 at tick 1286943012
+GPIO 26 level 1 at tick 1286943017
+GPIO 26 level 0 at tick 1286943032
+GPIO 26 level 1 at tick 1286943042
+GPIO 26 level 0 at tick 1286943052
+GPIO 26 level 1 at tick 1286943062
+GPIO 26 level 0 at tick 1286943077
+GPIO 26 level 1 at tick 1286943087
+GPIO 26 level 0 at tick 1286943117
+GPIO 26 level 1 at tick 1286943147
+GPIO 26 level 0 at tick 1286943177
+GPIO 26 level 1 at tick 1286943197
+GPIO 26 level 0 at tick 1286943207
+GPIO 26 level 1 at tick 1286943217
+GPIO 26 level 0 at tick 1286943227
+GPIO 26 level 1 at tick 1286943237
+GPIO 26 level 0 at tick 1286943252
+GPIO 26 level 1 at tick 1286943262
+GPIO 26 level 0 at tick 1286943272
+GPIO 26 level 1 at tick 1286943282
+GPIO 26 level 0 at tick 1286943297
+GPIO 26 level 1 at tick 1286943302
+GPIO 26 level 0 at tick 1286943338
+GPIO 26 level 1 at tick 1286943368
+GPIO 26 level 0 at tick 1286943398
+GPIO 26 level 1 at tick 1286943418
+GPIO 26 level 0 at tick 1286943428
+GPIO 26 level 1 at tick 1286943438
+GPIO 26 level 0 at tick 1286943453
+GPIO 26 level 1 at tick 1286943457
+GPIO 26 level 0 at tick 1286943472
+GPIO 26 level 1 at tick 1286943482
+GPIO 26 level 0 at tick 1286943492
+GPIO 26 level 1 at tick 1286943502
+GPIO 26 level 0 at tick 1286943517
+GPIO 26 level 1 at tick 1286943527
+GPIO 26 level 0 at tick 1286943557
+GPIO 26 level 1 at tick 1286943582
+GPIO 26 level 0 at tick 1286943612
+GPIO 26 level 1 at tick 1286943637
+GPIO 26 level 0 at tick 1286943647
+GPIO 26 level 1 at tick 1286943657
+GPIO 26 level 0 at tick 1286943672
+GPIO 26 level 1 at tick 1286943677
+GPIO 26 level 0 at tick 1286943692
+GPIO 26 level 1 at tick 1286943702
+GPIO 26 level 0 at tick 1286943712
+GPIO 26 level 1 at tick 1286943722
+GPIO 26 level 0 at tick 1286943737
+GPIO 26 level 1 at tick 1286943747
+GPIO 26 level 0 at tick 1286943777
+GPIO 26 level 1 at tick 1286943807
+GPIO 26 level 0 at tick 1286943837
+GPIO 26 level 1 at tick 1286943857
+GPIO 26 level 0 at tick 1286943867
+GPIO 26 level 1 at tick 1286943877
+GPIO 26 level 0 at tick 1286943892
+GPIO 26 level 1 at tick 1286943897
+GPIO 26 level 0 at tick 1286943912
+GPIO 26 level 1 at tick 1286943922
+GPIO 26 level 0 at tick 1286943932
+GPIO 26 level 1 at tick 1286943942
+GPIO 26 level 0 at tick 1286943957
+GPIO 26 level 1 at tick 1286943967
+GPIO 26 level 0 at tick 1286943997
+GPIO 26 level 1 at tick 1286944027
+GPIO 26 level 0 at tick 1286944057
+GPIO 26 level 1 at tick 1286944077
+GPIO 26 level 0 at tick 1286944087
+GPIO 26 level 1 at tick 1286944097
+GPIO 26 level 0 at tick 1286944112
+GPIO 26 level 1 at tick 1286944117
+GPIO 26 level 0 at tick 1286944132
+GPIO 26 level 1 at tick 1286944142
+GPIO 26 level 0 at tick 1286944152
+GPIO 26 level 1 at tick 1286944162
+GPIO 26 level 0 at tick 1286944177
+GPIO 26 level 1 at tick 1286944187
+GPIO 26 level 0 at tick 1286944217
+GPIO 26 level 1 at tick 1286944247
+GPIO 26 level 0 at tick 1286944277
+GPIO 26 level 1 at tick 1286944297
+GPIO 26 level 0 at tick 1286944307
+GPIO 26 level 1 at tick 1286944317
+GPIO 26 level 0 at tick 1286944332
+GPIO 26 level 1 at tick 1286944337
+GPIO 26 level 0 at tick 1286944352
+GPIO 26 level 1 at tick 1286944362
+GPIO 26 level 0 at tick 1286944372
+GPIO 26 level 1 at tick 1286944382
+GPIO 26 level 0 at tick 1286944397
+GPIO 26 level 1 at tick 1286944407
+GPIO 26 level 0 at tick 1286944437
+GPIO 26 level 1 at tick 1286944469
+GPIO 26 level 0 at tick 1286944499
+GPIO 26 level 1 at tick 1286944519
+GPIO 26 level 0 at tick 1286944529
+GPIO 26 level 1 at tick 1286944539
+GPIO 26 level 0 at tick 1286944554
+GPIO 26 level 1 at tick 1286944559
+GPIO 26 level 0 at tick 1286944574
+GPIO 26 level 1 at tick 1286944582
+GPIO 26 level 0 at tick 1286944592
+GPIO 26 level 1 at tick 1286944602
+GPIO 26 level 0 at tick 1286944617
+GPIO 26 level 1 at tick 1286944627
+GPIO 26 level 0 at tick 1286944657
+GPIO 26 level 1 at tick 1286944687
+GPIO 26 level 0 at tick 1286944717
+GPIO 26 level 1 at tick 1286944737
+GPIO 26 level 0 at tick 1286944747
+GPIO 26 level 1 at tick 1286944757
+GPIO 26 level 0 at tick 1286944772
+GPIO 26 level 1 at tick 1286944777
+GPIO 26 level 0 at tick 1286944792
+GPIO 26 level 1 at tick 1286944802
+GPIO 26 level 0 at tick 1286944812
+GPIO 26 level 1 at tick 1286944822
+GPIO 26 level 0 at tick 1286944837
+GPIO 26 level 1 at tick 1286944842
+GPIO 26 level 0 at tick 1286944877
+GPIO 26 level 1 at tick 1286944907
+GPIO 26 level 0 at tick 1286944937
+GPIO 26 level 1 at tick 1286944957
+GPIO 26 level 0 at tick 1286944967
+GPIO 26 level 1 at tick 1286944977
+GPIO 26 level 0 at tick 1286944992
+GPIO 26 level 1 at tick 1286944997
+GPIO 26 level 0 at tick 1286945012
+GPIO 26 level 1 at tick 1286945022
+GPIO 26 level 0 at tick 1286945032
+GPIO 26 level 1 at tick 1286945042
+GPIO 26 level 0 at tick 1286945057
+GPIO 26 level 1 at tick 1286945067
+GPIO 26 level 0 at tick 1286945097
+GPIO 26 level 1 at tick 1286945127
+GPIO 26 level 0 at tick 1286945157
+GPIO 26 level 1 at tick 1286945177
+GPIO 26 level 0 at tick 1286945187
+GPIO 26 level 1 at tick 1286945197
+GPIO 26 level 0 at tick 1286945212
+GPIO 26 level 1 at tick 1286945217
+GPIO 26 level 0 at tick 1286945232
+GPIO 26 level 1 at tick 1286945242
+GPIO 26 level 0 at tick 1286945252
+GPIO 26 level 1 at tick 1286945262
+GPIO 26 level 0 at tick 1286945272
+GPIO 26 level 1 at tick 1286945287
+GPIO 26 level 0 at tick 1286945317
+GPIO 26 level 1 at tick 1286945348
+GPIO 26 level 0 at tick 1286945378
+GPIO 26 level 1 at tick 1286945398
+GPIO 26 level 0 at tick 1286945408
+GPIO 26 level 1 at tick 1286945418
+GPIO 26 level 0 at tick 1286945433
+GPIO 26 level 1 at tick 1286945438
+GPIO 26 level 0 at tick 1286945453
+GPIO 26 level 1 at tick 1286945462
+GPIO 26 level 0 at tick 1286945472
+GPIO 26 level 1 at tick 1286945482
+GPIO 26 level 0 at tick 1286945497
+GPIO 26 level 1 at tick 1286945507
+GPIO 26 level 0 at tick 1286945537
+GPIO 26 level 1 at tick 1286945567
+GPIO 26 level 0 at tick 1286945597
+GPIO 26 level 1 at tick 1286945617
+GPIO 26 level 0 at tick 1286945627
+GPIO 26 level 1 at tick 1286945637
+GPIO 26 level 0 at tick 1286945652
+GPIO 26 level 1 at tick 1286945657
+GPIO 26 level 0 at tick 1286945672
+GPIO 26 level 1 at tick 1286945682
+GPIO 26 level 0 at tick 1286945692
+GPIO 26 level 1 at tick 1286945702
+GPIO 26 level 0 at tick 1286945717
+GPIO 26 level 1 at tick 1286945727
+GPIO 26 level 0 at tick 1286945757
+GPIO 26 level 1 at tick 1286945787
+GPIO 26 level 0 at tick 1286945817
+GPIO 26 level 1 at tick 1286945837
+GPIO 26 level 0 at tick 1286945847
+GPIO 26 level 1 at tick 1286945857
+GPIO 26 level 0 at tick 1286945872
+GPIO 26 level 1 at tick 1286945877
+GPIO 26 level 0 at tick 1286945892
+GPIO 26 level 1 at tick 1286945902
+GPIO 26 level 0 at tick 1286945912
+GPIO 26 level 1 at tick 1286945922
+GPIO 26 level 0 at tick 1286945937
+GPIO 26 level 1 at tick 1286945947
+GPIO 26 level 0 at tick 1286945977
+GPIO 26 level 1 at tick 1286946007
+GPIO 26 level 0 at tick 1286946037
+GPIO 26 level 1 at tick 1286946057
+GPIO 26 level 0 at tick 1286946067
+GPIO 26 level 1 at tick 1286946077
+GPIO 26 level 0 at tick 1286946092
+GPIO 26 level 1 at tick 1286946097
+GPIO 26 level 0 at tick 1286946112
+GPIO 26 level 1 at tick 1286946122
+GPIO 26 level 0 at tick 1286946132
+GPIO 26 level 1 at tick 1286946142
+GPIO 26 level 0 at tick 1286946157
+GPIO 26 level 1 at tick 1286946167
+GPIO 26 level 0 at tick 1286946197
+GPIO 26 level 1 at tick 1286946227
+GPIO 26 level 0 at tick 1286946257
+GPIO 26 level 1 at tick 1286946277
+GPIO 26 level 0 at tick 1286946287
+GPIO 26 level 1 at tick 1286946297
+GPIO 26 level 0 at tick 1286946312
+GPIO 26 level 1 at tick 1286946317
+GPIO 26 level 0 at tick 1286946332
+GPIO 26 level 1 at tick 1286946342
+GPIO 26 level 0 at tick 1286946352
+GPIO 26 level 1 at tick 1286946362
+GPIO 26 level 0 at tick 1286946377
+GPIO 26 level 1 at tick 1286946387
+GPIO 26 level 0 at tick 1286946417
+GPIO 26 level 1 at tick 1286946442
+GPIO 26 level 0 at tick 1286946474
+GPIO 26 level 1 at tick 1286946499
+GPIO 26 level 0 at tick 1286946509
+GPIO 26 level 1 at tick 1286946519
+GPIO 26 level 0 at tick 1286946534
+GPIO 26 level 1 at tick 1286946539
+GPIO 26 level 0 at tick 1286946554
+GPIO 26 level 1 at tick 1286946564
+GPIO 26 level 0 at tick 1286946574
+GPIO 26 level 1 at tick 1286946582
+GPIO 26 level 0 at tick 1286946597
+GPIO 26 level 1 at tick 1286946607
+GPIO 26 level 0 at tick 1286946637
+GPIO 26 level 1 at tick 1286946667
+GPIO 26 level 0 at tick 1286946697
+GPIO 26 level 1 at tick 1286946717
+GPIO 26 level 0 at tick 1286946727
+GPIO 26 level 1 at tick 1286946737
+GPIO 26 level 0 at tick 1286946752
+GPIO 26 level 1 at tick 1286946757
+GPIO 26 level 0 at tick 1286946772
+GPIO 26 level 1 at tick 1286946782
+GPIO 26 level 0 at tick 1286946792
+GPIO 26 level 1 at tick 1286946802
+GPIO 26 level 0 at tick 1286946812
+GPIO 26 level 1 at tick 1286946827
+GPIO 26 level 0 at tick 1286946857
+GPIO 26 level 1 at tick 1286946887
+GPIO 26 level 0 at tick 1286946917
+GPIO 26 level 1 at tick 1286946937
+GPIO 26 level 0 at tick 1286946947
+GPIO 26 level 1 at tick 1286946957
+GPIO 26 level 0 at tick 1286946972
+GPIO 26 level 1 at tick 1286946977
+GPIO 26 level 0 at tick 1286946992
+GPIO 26 level 1 at tick 1286947002
+GPIO 26 level 0 at tick 1286947012
+GPIO 26 level 1 at tick 1286947022
+GPIO 26 level 0 at tick 1286947037
+GPIO 26 level 1 at tick 1286947047
+GPIO 26 level 0 at tick 1286947077
+GPIO 26 level 1 at tick 1286947107
+GPIO 26 level 0 at tick 1286947137
+GPIO 26 level 1 at tick 1286947157
+GPIO 26 level 0 at tick 1286947167
+GPIO 26 level 1 at tick 1286947177
+GPIO 26 level 0 at tick 1286947192
+GPIO 26 level 1 at tick 1286947197
+GPIO 26 level 0 at tick 1286947212
+GPIO 26 level 1 at tick 1286947222
+GPIO 26 level 0 at tick 1286947232
+GPIO 26 level 1 at tick 1286947242
+GPIO 26 level 0 at tick 1286947257
+GPIO 26 level 1 at tick 1286947267
+GPIO 26 level 0 at tick 1286947297
+GPIO 26 level 1 at tick 1286947327
+GPIO 26 level 0 at tick 1286947358
+GPIO 26 level 1 at tick 1286947378
+GPIO 26 level 0 at tick 1286947388
+GPIO 26 level 1 at tick 1286947398
+GPIO 26 level 0 at tick 1286947413
+GPIO 26 level 1 at tick 1286947418
+GPIO 26 level 0 at tick 1286947433
+GPIO 26 level 1 at tick 1286947443
+GPIO 26 level 0 at tick 1286947453
+GPIO 26 level 1 at tick 1286947462
+GPIO 26 level 0 at tick 1286947477
+GPIO 26 level 1 at tick 1286947487
+GPIO 26 level 0 at tick 1286947517
+GPIO 26 level 1 at tick 1286947547
+GPIO 26 level 0 at tick 1286947577
+GPIO 26 level 1 at tick 1286947597
+GPIO 26 level 0 at tick 1286947607
+GPIO 26 level 1 at tick 1286947617
+GPIO 26 level 0 at tick 1286947627
+GPIO 26 level 1 at tick 1286947637
+GPIO 26 level 0 at tick 1286947652
+GPIO 26 level 1 at tick 1286947662
+GPIO 26 level 0 at tick 1286947672
+GPIO 26 level 1 at tick 1286947682
+GPIO 26 level 0 at tick 1286947697
+GPIO 26 level 1 at tick 1286947702
+GPIO 26 level 0 at tick 1286947737
+GPIO 26 level 1 at tick 1286947767
+GPIO 26 level 0 at tick 1286947797
+GPIO 26 level 1 at tick 1286947817
+GPIO 26 level 0 at tick 1286947827
+GPIO 26 level 1 at tick 1286947837
+GPIO 26 level 0 at tick 1286947852
+GPIO 26 level 1 at tick 1286947857
+GPIO 26 level 0 at tick 1286947872
+GPIO 26 level 1 at tick 1286947882
+GPIO 26 level 0 at tick 1286947892
+GPIO 26 level 1 at tick 1286947902
+GPIO 26 level 0 at tick 1286947917
+GPIO 26 level 1 at tick 1286947927
+GPIO 26 level 0 at tick 1286947957
+GPIO 26 level 1 at tick 1286947987
+GPIO 26 level 0 at tick 1286948017
+GPIO 26 level 1 at tick 1286948037
+GPIO 26 level 0 at tick 1286948047
+GPIO 26 level 1 at tick 1286948057
+GPIO 26 level 0 at tick 1286948072
+GPIO 26 level 1 at tick 1286948077
+GPIO 26 level 0 at tick 1286948092
+GPIO 26 level 1 at tick 1286948102
+GPIO 26 level 0 at tick 1286948112
+GPIO 26 level 1 at tick 1286948122
+GPIO 26 level 0 at tick 1286948137
+GPIO 26 level 1 at tick 1286948147
+GPIO 26 level 0 at tick 1286948177
+GPIO 26 level 1 at tick 1286948207
+GPIO 26 level 0 at tick 1286948237
+GPIO 26 level 1 at tick 1286948257
+GPIO 26 level 0 at tick 1286948267
+GPIO 26 level 1 at tick 1286948277
+GPIO 26 level 0 at tick 1286948292
+GPIO 26 level 1 at tick 1286948297
+GPIO 26 level 0 at tick 1286948312
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+9 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+12 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+8 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+10 1 0
+11 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+24 2 0
+5 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+32 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+13 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+31 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+14 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+20 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+32 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+13 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+36 4 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+4 0 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+25 3 0
+30 3 1
+25 3 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+32 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+8 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+35 4 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+30 3 1
+31 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+9 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+25 3 0
+32 3 1
+25 3 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+8 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+31 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+9 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+35 4 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+30 3 1
+30 3 0
+30 3 1
+20 2 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+[0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1]

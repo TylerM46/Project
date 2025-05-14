@@ -1,0 +1,3746 @@
+GPIO 26 level 0 at tick 1978711598
+GPIO 26 level 1 at tick 1978711608
+GPIO 26 level 0 at tick 1978711623
+GPIO 26 level 1 at tick 1978711633
+GPIO 26 level 0 at tick 1978711643
+GPIO 26 level 1 at tick 1978711653
+GPIO 26 level 0 at tick 1978711668
+GPIO 26 level 1 at tick 1978711673
+GPIO 26 level 0 at tick 1978711688
+GPIO 26 level 1 at tick 1978711698
+GPIO 26 level 0 at tick 1978711708
+GPIO 26 level 1 at tick 1978711718
+GPIO 26 level 0 at tick 1978711728
+GPIO 26 level 1 at tick 1978711743
+GPIO 26 level 0 at tick 1978711753
+GPIO 26 level 1 at tick 1978711763
+GPIO 26 level 0 at tick 1978711773
+GPIO 26 level 1 at tick 1978711783
+GPIO 26 level 0 at tick 1978711798
+GPIO 26 level 1 at tick 1978711808
+GPIO 26 level 0 at tick 1978711818
+GPIO 26 level 1 at tick 1978711828
+GPIO 26 level 0 at tick 1978711843
+GPIO 26 level 1 at tick 1978711853
+GPIO 26 level 0 at tick 1978711863
+GPIO 26 level 1 at tick 1978711873
+GPIO 26 level 0 at tick 1978711888
+GPIO 26 level 1 at tick 1978711893
+GPIO 26 level 0 at tick 1978711908
+GPIO 26 level 1 at tick 1978711918
+GPIO 26 level 0 at tick 1978711928
+GPIO 26 level 1 at tick 1978711938
+GPIO 26 level 0 at tick 1978711953
+GPIO 26 level 1 at tick 1978711963
+GPIO 26 level 0 at tick 1978711973
+GPIO 26 level 1 at tick 1978711983
+GPIO 26 level 0 at tick 1978711998
+GPIO 26 level 1 at tick 1978712003
+GPIO 26 level 0 at tick 1978712018
+GPIO 26 level 1 at tick 1978712028
+GPIO 26 level 0 at tick 1978712038
+GPIO 26 level 1 at tick 1978712048
+GPIO 26 level 0 at tick 1978712063
+GPIO 26 level 1 at tick 1978712068
+GPIO 26 level 0 at tick 1978712085
+GPIO 26 level 1 at tick 1978712095
+GPIO 26 level 0 at tick 1978712110
+GPIO 26 level 1 at tick 1978712115
+GPIO 26 level 0 at tick 1978712130
+GPIO 26 level 1 at tick 1978712140
+GPIO 26 level 0 at tick 1978712150
+GPIO 26 level 1 at tick 1978712160
+GPIO 26 level 0 at tick 1978712175
+GPIO 26 level 1 at tick 1978712185
+GPIO 26 level 0 at tick 1978712195
+GPIO 26 level 1 at tick 1978712205
+GPIO 26 level 0 at tick 1978712218
+GPIO 26 level 1 at tick 1978712223
+GPIO 26 level 0 at tick 1978712238
+GPIO 26 level 1 at tick 1978712248
+GPIO 26 level 0 at tick 1978712258
+GPIO 26 level 1 at tick 1978712268
+GPIO 26 level 0 at tick 1978712283
+GPIO 26 level 1 at tick 1978712293
+GPIO 26 level 0 at tick 1978712303
+GPIO 26 level 1 at tick 1978712313
+GPIO 26 level 0 at tick 1978712328
+GPIO 26 level 1 at tick 1978712333
+GPIO 26 level 0 at tick 1978712348
+GPIO 26 level 1 at tick 1978712358
+GPIO 26 level 0 at tick 1978712368
+GPIO 26 level 1 at tick 1978712378
+GPIO 26 level 0 at tick 1978712393
+GPIO 26 level 1 at tick 1978712403
+GPIO 26 level 0 at tick 1978712413
+GPIO 26 level 1 at tick 1978712423
+GPIO 26 level 0 at tick 1978712438
+GPIO 26 level 1 at tick 1978712443
+GPIO 26 level 0 at tick 1978712458
+GPIO 26 level 1 at tick 1978712468
+GPIO 26 level 0 at tick 1978712478
+GPIO 26 level 1 at tick 1978712488
+GPIO 26 level 0 at tick 1978712498
+GPIO 26 level 1 at tick 1978712513
+GPIO 26 level 0 at tick 1978712523
+GPIO 26 level 1 at tick 1978712533
+GPIO 26 level 0 at tick 1978712543
+GPIO 26 level 1 at tick 1978712553
+GPIO 26 level 0 at tick 1978712568
+GPIO 26 level 1 at tick 1978712578
+GPIO 26 level 0 at tick 1978712588
+GPIO 26 level 1 at tick 1978712598
+GPIO 26 level 0 at tick 1978712613
+GPIO 26 level 1 at tick 1978712623
+GPIO 26 level 0 at tick 1978712633
+GPIO 26 level 1 at tick 1978712643
+GPIO 26 level 0 at tick 1978712658
+GPIO 26 level 1 at tick 1978712663
+GPIO 26 level 0 at tick 1978712678
+GPIO 26 level 1 at tick 1978712688
+GPIO 26 level 0 at tick 1978712698
+GPIO 26 level 1 at tick 1978712708
+GPIO 26 level 0 at tick 1978712723
+GPIO 26 level 1 at tick 1978712733
+GPIO 26 level 0 at tick 1978712743
+GPIO 26 level 1 at tick 1978712753
+GPIO 26 level 0 at tick 1978712768
+GPIO 26 level 1 at tick 1978712773
+GPIO 26 level 0 at tick 1978712788
+GPIO 26 level 1 at tick 1978712798
+GPIO 26 level 0 at tick 1978712808
+GPIO 26 level 1 at tick 1978712818
+GPIO 26 level 0 at tick 1978712833
+GPIO 26 level 1 at tick 1978712843
+GPIO 26 level 0 at tick 1978712853
+GPIO 26 level 1 at tick 1978712863
+GPIO 26 level 0 at tick 1978712878
+GPIO 26 level 1 at tick 1978712883
+GPIO 26 level 0 at tick 1978712898
+GPIO 26 level 1 at tick 1978712908
+GPIO 26 level 0 at tick 1978712918
+GPIO 26 level 1 at tick 1978712928
+GPIO 26 level 0 at tick 1978712943
+GPIO 26 level 1 at tick 1978712953
+GPIO 26 level 0 at tick 1978712964
+GPIO 26 level 1 at tick 1978712974
+GPIO 26 level 0 at tick 1978712989
+GPIO 26 level 1 at tick 1978712994
+GPIO 26 level 0 at tick 1978713009
+GPIO 26 level 1 at tick 1978713019
+GPIO 26 level 0 at tick 1978713029
+GPIO 26 level 1 at tick 1978713039
+GPIO 26 level 0 at tick 1978713054
+GPIO 26 level 1 at tick 1978713064
+GPIO 26 level 0 at tick 1978713074
+GPIO 26 level 1 at tick 1978713083
+GPIO 26 level 0 at tick 1978713098
+GPIO 26 level 1 at tick 1978713108
+GPIO 26 level 0 at tick 1978713118
+GPIO 26 level 1 at tick 1978713133
+GPIO 26 level 0 at tick 1978713143
+GPIO 26 level 1 at tick 1978713153
+GPIO 26 level 0 at tick 1978713163
+GPIO 26 level 1 at tick 1978713173
+GPIO 26 level 0 at tick 1978713188
+GPIO 26 level 1 at tick 1978713198
+GPIO 26 level 0 at tick 1978713208
+GPIO 26 level 1 at tick 1978713218
+GPIO 26 level 0 at tick 1978713233
+GPIO 26 level 1 at tick 1978713238
+GPIO 26 level 0 at tick 1978713253
+GPIO 26 level 1 at tick 1978713263
+GPIO 26 level 0 at tick 1978713273
+GPIO 26 level 1 at tick 1978713283
+GPIO 26 level 0 at tick 1978713298
+GPIO 26 level 1 at tick 1978713308
+GPIO 26 level 0 at tick 1978713318
+GPIO 26 level 1 at tick 1978713328
+GPIO 26 level 0 at tick 1978713343
+GPIO 26 level 1 at tick 1978713348
+GPIO 26 level 0 at tick 1978713363
+GPIO 26 level 1 at tick 1978713373
+GPIO 26 level 0 at tick 1978713383
+GPIO 26 level 1 at tick 1978713393
+GPIO 26 level 0 at tick 1978713408
+GPIO 26 level 1 at tick 1978713418
+GPIO 26 level 0 at tick 1978713428
+GPIO 26 level 1 at tick 1978713438
+GPIO 26 level 0 at tick 1978713453
+GPIO 26 level 1 at tick 1978713458
+GPIO 26 level 0 at tick 1978713473
+GPIO 26 level 1 at tick 1978713483
+GPIO 26 level 0 at tick 1978713493
+GPIO 26 level 1 at tick 1978713503
+GPIO 26 level 0 at tick 1978713518
+GPIO 26 level 1 at tick 1978713528
+GPIO 26 level 0 at tick 1978713538
+GPIO 26 level 1 at tick 1978713548
+GPIO 26 level 0 at tick 1978713563
+GPIO 26 level 1 at tick 1978713568
+GPIO 26 level 0 at tick 1978713583
+GPIO 26 level 1 at tick 1978713593
+GPIO 26 level 0 at tick 1978713603
+GPIO 26 level 1 at tick 1978713613
+GPIO 26 level 0 at tick 1978713628
+GPIO 26 level 1 at tick 1978713638
+GPIO 26 level 0 at tick 1978713648
+GPIO 26 level 1 at tick 1978713658
+GPIO 26 level 0 at tick 1978713668
+GPIO 26 level 1 at tick 1978713678
+GPIO 26 level 0 at tick 1978713693
+GPIO 26 level 1 at tick 1978713703
+GPIO 26 level 0 at tick 1978713713
+GPIO 26 level 1 at tick 1978713723
+GPIO 26 level 0 at tick 1978713738
+GPIO 26 level 1 at tick 1978713743
+GPIO 26 level 0 at tick 1978713758
+GPIO 26 level 1 at tick 1978713768
+GPIO 26 level 0 at tick 1978713783
+GPIO 26 level 1 at tick 1978713788
+GPIO 26 level 0 at tick 1978713803
+GPIO 26 level 1 at tick 1978713813
+GPIO 26 level 0 at tick 1978713823
+GPIO 26 level 1 at tick 1978713833
+GPIO 26 level 0 at tick 1978713848
+GPIO 26 level 1 at tick 1978713858
+GPIO 26 level 0 at tick 1978713868
+GPIO 26 level 1 at tick 1978713878
+GPIO 26 level 0 at tick 1978713893
+GPIO 26 level 1 at tick 1978713898
+GPIO 26 level 0 at tick 1978713913
+GPIO 26 level 1 at tick 1978713923
+GPIO 26 level 0 at tick 1978713933
+GPIO 26 level 1 at tick 1978713943
+GPIO 26 level 0 at tick 1978713958
+GPIO 26 level 1 at tick 1978713968
+GPIO 26 level 0 at tick 1978713978
+GPIO 26 level 1 at tick 1978713988
+GPIO 26 level 0 at tick 1978714003
+GPIO 26 level 1 at tick 1978714008
+GPIO 26 level 0 at tick 1978714023
+GPIO 26 level 1 at tick 1978714033
+GPIO 26 level 0 at tick 1978714043
+GPIO 26 level 1 at tick 1978714053
+GPIO 26 level 0 at tick 1978714068
+GPIO 26 level 1 at tick 1978714078
+GPIO 26 level 0 at tick 1978714090
+GPIO 26 level 1 at tick 1978714100
+GPIO 26 level 0 at tick 1978714115
+GPIO 26 level 1 at tick 1978714120
+GPIO 26 level 0 at tick 1978714135
+GPIO 26 level 1 at tick 1978714145
+GPIO 26 level 0 at tick 1978714155
+GPIO 26 level 1 at tick 1978714165
+GPIO 26 level 0 at tick 1978714180
+GPIO 26 level 1 at tick 1978714190
+GPIO 26 level 0 at tick 1978714200
+GPIO 26 level 1 at tick 1978714208
+GPIO 26 level 0 at tick 1978714223
+GPIO 26 level 1 at tick 1978714228
+GPIO 26 level 0 at tick 1978714243
+GPIO 26 level 1 at tick 1978714253
+GPIO 26 level 0 at tick 1978714263
+GPIO 26 level 1 at tick 1978714273
+GPIO 26 level 0 at tick 1978714288
+GPIO 26 level 1 at tick 1978714298
+GPIO 26 level 0 at tick 1978714308
+GPIO 26 level 1 at tick 1978714318
+GPIO 26 level 0 at tick 1978714333
+GPIO 26 level 1 at tick 1978714338
+GPIO 26 level 0 at tick 1978714353
+GPIO 26 level 1 at tick 1978714363
+GPIO 26 level 0 at tick 1978714373
+GPIO 26 level 1 at tick 1978714383
+GPIO 26 level 0 at tick 1978714398
+GPIO 26 level 1 at tick 1978714408
+GPIO 26 level 0 at tick 1978714418
+GPIO 26 level 1 at tick 1978714428
+GPIO 26 level 0 at tick 1978714443
+GPIO 26 level 1 at tick 1978714448
+GPIO 26 level 0 at tick 1978714463
+GPIO 26 level 1 at tick 1978714473
+GPIO 26 level 0 at tick 1978714483
+GPIO 26 level 1 at tick 1978714493
+GPIO 26 level 0 at tick 1978714508
+GPIO 26 level 1 at tick 1978714513
+GPIO 26 level 0 at tick 1978714528
+GPIO 26 level 1 at tick 1978714538
+GPIO 26 level 0 at tick 1978714553
+GPIO 26 level 1 at tick 1978714558
+GPIO 26 level 0 at tick 1978714573
+GPIO 26 level 1 at tick 1978714583
+GPIO 26 level 0 at tick 1978714593
+GPIO 26 level 1 at tick 1978714603
+GPIO 26 level 0 at tick 1978714618
+GPIO 26 level 1 at tick 1978714628
+GPIO 26 level 0 at tick 1978714638
+GPIO 26 level 1 at tick 1978714648
+GPIO 26 level 0 at tick 1978714663
+GPIO 26 level 1 at tick 1978714668
+GPIO 26 level 0 at tick 1978714683
+GPIO 26 level 1 at tick 1978714693
+GPIO 26 level 0 at tick 1978714703
+GPIO 26 level 1 at tick 1978714713
+GPIO 26 level 0 at tick 1978714728
+GPIO 26 level 1 at tick 1978714738
+GPIO 26 level 0 at tick 1978714748
+GPIO 26 level 1 at tick 1978714758
+GPIO 26 level 0 at tick 1978714773
+GPIO 26 level 1 at tick 1978714778
+GPIO 26 level 0 at tick 1978714793
+GPIO 26 level 1 at tick 1978714803
+GPIO 26 level 0 at tick 1978714813
+GPIO 26 level 1 at tick 1978714823
+GPIO 26 level 0 at tick 1978714838
+GPIO 26 level 1 at tick 1978714848
+GPIO 26 level 0 at tick 1978714858
+GPIO 26 level 1 at tick 1978714868
+GPIO 26 level 0 at tick 1978714883
+GPIO 26 level 1 at tick 1978714888
+GPIO 26 level 0 at tick 1978714903
+GPIO 26 level 1 at tick 1978714913
+GPIO 26 level 0 at tick 1978714923
+GPIO 26 level 1 at tick 1978714933
+GPIO 26 level 0 at tick 1978714943
+GPIO 26 level 1 at tick 1978714959
+GPIO 26 level 0 at tick 1978714969
+GPIO 26 level 1 at tick 1978714979
+GPIO 26 level 0 at tick 1978714989
+GPIO 26 level 1 at tick 1978715004
+GPIO 26 level 0 at tick 1978715014
+GPIO 26 level 1 at tick 1978715024
+GPIO 26 level 0 at tick 1978715034
+GPIO 26 level 1 at tick 1978715044
+GPIO 26 level 0 at tick 1978715059
+GPIO 26 level 1 at tick 1978715069
+GPIO 26 level 0 at tick 1978715079
+GPIO 26 level 1 at tick 1978715088
+GPIO 26 level 0 at tick 1978715103
+GPIO 26 level 1 at tick 1978715108
+GPIO 26 level 0 at tick 1978715123
+GPIO 26 level 1 at tick 1978715133
+GPIO 26 level 0 at tick 1978715143
+GPIO 26 level 1 at tick 1978715153
+GPIO 26 level 0 at tick 1978715168
+GPIO 26 level 1 at tick 1978715178
+GPIO 26 level 0 at tick 1978715188
+GPIO 26 level 1 at tick 1978715198
+GPIO 26 level 0 at tick 1978715208
+GPIO 26 level 1 at tick 1978715223
+GPIO 26 level 0 at tick 1978715233
+GPIO 26 level 1 at tick 1978715243
+GPIO 26 level 0 at tick 1978715253
+GPIO 26 level 1 at tick 1978715263
+GPIO 26 level 0 at tick 1978715278
+GPIO 26 level 1 at tick 1978715283
+GPIO 26 level 0 at tick 1978715298
+GPIO 26 level 1 at tick 1978715308
+GPIO 26 level 0 at tick 1978715323
+GPIO 26 level 1 at tick 1978715328
+GPIO 26 level 0 at tick 1978715343
+GPIO 26 level 1 at tick 1978715353
+GPIO 26 level 0 at tick 1978715363
+GPIO 26 level 1 at tick 1978715373
+GPIO 26 level 0 at tick 1978715388
+GPIO 26 level 1 at tick 1978715398
+GPIO 26 level 0 at tick 1978715408
+GPIO 26 level 1 at tick 1978715418
+GPIO 26 level 0 at tick 1978715433
+GPIO 26 level 1 at tick 1978715438
+GPIO 26 level 0 at tick 1978715453
+GPIO 26 level 1 at tick 1978715463
+GPIO 26 level 0 at tick 1978715473
+GPIO 26 level 1 at tick 1978715483
+GPIO 26 level 0 at tick 1978715498
+GPIO 26 level 1 at tick 1978715508
+GPIO 26 level 0 at tick 1978715518
+GPIO 26 level 1 at tick 1978715528
+GPIO 26 level 0 at tick 1978715543
+GPIO 26 level 1 at tick 1978715548
+GPIO 26 level 0 at tick 1978715563
+GPIO 26 level 1 at tick 1978715573
+GPIO 26 level 0 at tick 1978715583
+GPIO 26 level 1 at tick 1978715593
+GPIO 26 level 0 at tick 1978715608
+GPIO 26 level 1 at tick 1978715618
+GPIO 26 level 0 at tick 1978715628
+GPIO 26 level 1 at tick 1978715638
+GPIO 26 level 0 at tick 1978715653
+GPIO 26 level 1 at tick 1978715658
+GPIO 26 level 0 at tick 1978715673
+GPIO 26 level 1 at tick 1978715683
+GPIO 26 level 0 at tick 1978715693
+GPIO 26 level 1 at tick 1978715703
+GPIO 26 level 0 at tick 1978715713
+GPIO 26 level 1 at tick 1978715728
+GPIO 26 level 0 at tick 1978715738
+GPIO 26 level 1 at tick 1978715748
+GPIO 26 level 0 at tick 1978715758
+GPIO 26 level 1 at tick 1978715773
+GPIO 26 level 0 at tick 1978715783
+GPIO 26 level 1 at tick 1978715793
+GPIO 26 level 0 at tick 1978715803
+GPIO 26 level 1 at tick 1978715813
+GPIO 26 level 0 at tick 1978715828
+GPIO 26 level 1 at tick 1978715838
+GPIO 26 level 0 at tick 1978715848
+GPIO 26 level 1 at tick 1978715858
+GPIO 26 level 0 at tick 1978715873
+GPIO 26 level 1 at tick 1978715878
+GPIO 26 level 0 at tick 1978715893
+GPIO 26 level 1 at tick 1978715903
+GPIO 26 level 0 at tick 1978715913
+GPIO 26 level 1 at tick 1978715923
+GPIO 26 level 0 at tick 1978715938
+GPIO 26 level 1 at tick 1978715948
+GPIO 26 level 0 at tick 1978715958
+GPIO 26 level 1 at tick 1978715968
+GPIO 26 level 0 at tick 1978715983
+GPIO 26 level 1 at tick 1978715988
+GPIO 26 level 0 at tick 1978716003
+GPIO 26 level 1 at tick 1978716013
+GPIO 26 level 0 at tick 1978716023
+GPIO 26 level 1 at tick 1978716033
+GPIO 26 level 0 at tick 1978716048
+GPIO 26 level 1 at tick 1978716058
+GPIO 26 level 0 at tick 1978716068
+GPIO 26 level 1 at tick 1978716078
+GPIO 26 level 0 at tick 1978716095
+GPIO 26 level 1 at tick 1978716100
+GPIO 26 level 0 at tick 1978716115
+GPIO 26 level 1 at tick 1978716125
+GPIO 26 level 0 at tick 1978716135
+GPIO 26 level 1 at tick 1978716145
+GPIO 26 level 0 at tick 1978716160
+GPIO 26 level 1 at tick 1978716170
+GPIO 26 level 0 at tick 1978716180
+GPIO 26 level 1 at tick 1978716190
+GPIO 26 level 0 at tick 1978716205
+GPIO 26 level 1 at tick 1978716208
+GPIO 26 level 0 at tick 1978716223
+GPIO 26 level 1 at tick 1978716233
+GPIO 26 level 0 at tick 1978716243
+GPIO 26 level 1 at tick 1978716253
+GPIO 26 level 0 at tick 1978716268
+GPIO 26 level 1 at tick 1978716278
+GPIO 26 level 0 at tick 1978716288
+GPIO 26 level 1 at tick 1978716298
+GPIO 26 level 0 at tick 1978716313
+GPIO 26 level 1 at tick 1978716318
+GPIO 26 level 0 at tick 1978716333
+GPIO 26 level 1 at tick 1978716343
+GPIO 26 level 0 at tick 1978716353
+GPIO 26 level 1 at tick 1978716363
+GPIO 26 level 0 at tick 1978716378
+GPIO 26 level 1 at tick 1978716388
+GPIO 26 level 0 at tick 1978716398
+GPIO 26 level 1 at tick 1978716408
+GPIO 26 level 0 at tick 1978716423
+GPIO 26 level 1 at tick 1978716428
+GPIO 26 level 0 at tick 1978716443
+GPIO 26 level 1 at tick 1978716453
+GPIO 26 level 0 at tick 1978716463
+GPIO 26 level 1 at tick 1978716473
+GPIO 26 level 0 at tick 1978716483
+GPIO 26 level 1 at tick 1978716498
+GPIO 26 level 0 at tick 1978716508
+GPIO 26 level 1 at tick 1978716518
+GPIO 26 level 0 at tick 1978716528
+GPIO 26 level 1 at tick 1978716538
+GPIO 26 level 0 at tick 1978716553
+GPIO 26 level 1 at tick 1978716563
+GPIO 26 level 0 at tick 1978716573
+GPIO 26 level 1 at tick 1978716583
+GPIO 26 level 0 at tick 1978716598
+GPIO 26 level 1 at tick 1978716608
+GPIO 26 level 0 at tick 1978716618
+GPIO 26 level 1 at tick 1978716628
+GPIO 26 level 0 at tick 1978716643
+GPIO 26 level 1 at tick 1978716648
+GPIO 26 level 0 at tick 1978716663
+GPIO 26 level 1 at tick 1978716673
+GPIO 26 level 0 at tick 1978716683
+GPIO 26 level 1 at tick 1978716693
+GPIO 26 level 0 at tick 1978716708
+GPIO 26 level 1 at tick 1978716718
+GPIO 26 level 0 at tick 1978716728
+GPIO 26 level 1 at tick 1978716738
+GPIO 26 level 0 at tick 1978716753
+GPIO 26 level 1 at tick 1978716758
+GPIO 26 level 0 at tick 1978716773
+GPIO 26 level 1 at tick 1978716783
+GPIO 26 level 0 at tick 1978716793
+GPIO 26 level 1 at tick 1978716803
+GPIO 26 level 0 at tick 1978716818
+GPIO 26 level 1 at tick 1978716828
+GPIO 26 level 0 at tick 1978716838
+GPIO 26 level 1 at tick 1978716848
+GPIO 26 level 0 at tick 1978716863
+GPIO 26 level 1 at tick 1978716868
+GPIO 26 level 0 at tick 1978716883
+GPIO 26 level 1 at tick 1978716893
+GPIO 26 level 0 at tick 1978716903
+GPIO 26 level 1 at tick 1978716913
+GPIO 26 level 0 at tick 1978716928
+GPIO 26 level 1 at tick 1978716938
+GPIO 26 level 0 at tick 1978716948
+GPIO 26 level 1 at tick 1978716959
+GPIO 26 level 0 at tick 1978716974
+GPIO 26 level 1 at tick 1978716979
+GPIO 26 level 0 at tick 1978716994
+GPIO 26 level 1 at tick 1978717004
+GPIO 26 level 0 at tick 1978717014
+GPIO 26 level 1 at tick 1978717024
+GPIO 26 level 0 at tick 1978717039
+GPIO 26 level 1 at tick 1978717049
+GPIO 26 level 0 at tick 1978717059
+GPIO 26 level 1 at tick 1978717069
+GPIO 26 level 0 at tick 1978717083
+GPIO 26 level 1 at tick 1978717088
+GPIO 26 level 0 at tick 1978717103
+GPIO 26 level 1 at tick 1978717113
+GPIO 26 level 0 at tick 1978717123
+GPIO 26 level 1 at tick 1978717133
+GPIO 26 level 0 at tick 1978717148
+GPIO 26 level 1 at tick 1978717158
+GPIO 26 level 0 at tick 1978717168
+GPIO 26 level 1 at tick 1978717178
+GPIO 26 level 0 at tick 1978717193
+GPIO 26 level 1 at tick 1978717198
+GPIO 26 level 0 at tick 1978717213
+GPIO 26 level 1 at tick 1978717223
+GPIO 26 level 0 at tick 1978717233
+GPIO 26 level 1 at tick 1978717243
+GPIO 26 level 0 at tick 1978717258
+GPIO 26 level 1 at tick 1978717268
+GPIO 26 level 0 at tick 1978717278
+GPIO 26 level 1 at tick 1978717288
+GPIO 26 level 0 at tick 1978717303
+GPIO 26 level 1 at tick 1978717308
+GPIO 26 level 0 at tick 1978717323
+GPIO 26 level 1 at tick 1978717333
+GPIO 26 level 0 at tick 1978717343
+GPIO 26 level 1 at tick 1978717353
+GPIO 26 level 0 at tick 1978717368
+GPIO 26 level 1 at tick 1978717378
+GPIO 26 level 0 at tick 1978717388
+GPIO 26 level 1 at tick 1978717398
+GPIO 26 level 0 at tick 1978717413
+GPIO 26 level 1 at tick 1978717418
+GPIO 26 level 0 at tick 1978717433
+GPIO 26 level 1 at tick 1978717443
+GPIO 26 level 0 at tick 1978717453
+GPIO 26 level 1 at tick 1978717463
+GPIO 26 level 0 at tick 1978717478
+GPIO 26 level 1 at tick 1978717488
+GPIO 26 level 0 at tick 1978717498
+GPIO 26 level 1 at tick 1978717508
+GPIO 26 level 0 at tick 1978717523
+GPIO 26 level 1 at tick 1978717528
+GPIO 26 level 0 at tick 1978717543
+GPIO 26 level 1 at tick 1978717553
+GPIO 26 level 0 at tick 1978717563
+GPIO 26 level 1 at tick 1978717573
+GPIO 26 level 0 at tick 1978717588
+GPIO 26 level 1 at tick 1978717598
+GPIO 26 level 0 at tick 1978717608
+GPIO 26 level 1 at tick 1978717618
+GPIO 26 level 0 at tick 1978717633
+GPIO 26 level 1 at tick 1978717643
+GPIO 26 level 0 at tick 1978717653
+GPIO 26 level 1 at tick 1978717663
+GPIO 26 level 0 at tick 1978717673
+GPIO 26 level 1 at tick 1978717683
+GPIO 26 level 0 at tick 1978717698
+GPIO 26 level 1 at tick 1978717708
+GPIO 26 level 0 at tick 1978717718
+GPIO 26 level 1 at tick 1978717728
+GPIO 26 level 0 at tick 1978717743
+GPIO 26 level 1 at tick 1978717748
+GPIO 26 level 0 at tick 1978717763
+GPIO 26 level 1 at tick 1978717773
+GPIO 26 level 0 at tick 1978717783
+GPIO 26 level 1 at tick 1978717793
+GPIO 26 level 0 at tick 1978717808
+GPIO 26 level 1 at tick 1978717818
+GPIO 26 level 0 at tick 1978717828
+GPIO 26 level 1 at tick 1978717838
+GPIO 26 level 0 at tick 1978717853
+GPIO 26 level 1 at tick 1978717858
+GPIO 26 level 0 at tick 1978717873
+GPIO 26 level 1 at tick 1978717883
+GPIO 26 level 0 at tick 1978717893
+GPIO 26 level 1 at tick 1978717903
+GPIO 26 level 0 at tick 1978717918
+GPIO 26 level 1 at tick 1978717928
+GPIO 26 level 0 at tick 1978717938
+GPIO 26 level 1 at tick 1978717948
+GPIO 26 level 0 at tick 1978717958
+GPIO 26 level 1 at tick 1978717973
+GPIO 26 level 0 at tick 1978717983
+GPIO 26 level 1 at tick 1978717993
+GPIO 26 level 0 at tick 1978718003
+GPIO 26 level 1 at tick 1978718013
+GPIO 26 level 0 at tick 1978718028
+GPIO 26 level 1 at tick 1978718038
+GPIO 26 level 0 at tick 1978718048
+GPIO 26 level 1 at tick 1978718058
+GPIO 26 level 0 at tick 1978718068
+GPIO 26 level 1 at tick 1978718078
+GPIO 26 level 0 at tick 1978718095
+GPIO 26 level 1 at tick 1978718105
+GPIO 26 level 0 at tick 1978718115
+GPIO 26 level 1 at tick 1978718125
+GPIO 26 level 0 at tick 1978718140
+GPIO 26 level 1 at tick 1978718145
+GPIO 26 level 0 at tick 1978718160
+GPIO 26 level 1 at tick 1978718170
+GPIO 26 level 0 at tick 1978718185
+GPIO 26 level 1 at tick 1978718190
+GPIO 26 level 0 at tick 1978718205
+GPIO 26 level 1 at tick 1978718213
+GPIO 26 level 0 at tick 1978718223
+GPIO 26 level 1 at tick 1978718233
+GPIO 26 level 0 at tick 1978718248
+GPIO 26 level 1 at tick 1978718258
+GPIO 26 level 0 at tick 1978718268
+GPIO 26 level 1 at tick 1978718278
+GPIO 26 level 0 at tick 1978718293
+GPIO 26 level 1 at tick 1978718298
+GPIO 26 level 0 at tick 1978718313
+GPIO 26 level 1 at tick 1978718323
+GPIO 26 level 0 at tick 1978718333
+GPIO 26 level 1 at tick 1978718343
+GPIO 26 level 0 at tick 1978718358
+GPIO 26 level 1 at tick 1978718368
+GPIO 26 level 0 at tick 1978718378
+GPIO 26 level 1 at tick 1978718388
+GPIO 26 level 0 at tick 1978718403
+GPIO 26 level 1 at tick 1978718408
+GPIO 26 level 0 at tick 1978718423
+GPIO 26 level 1 at tick 1978718433
+GPIO 26 level 0 at tick 1978718443
+GPIO 26 level 1 at tick 1978718453
+GPIO 26 level 0 at tick 1978718468
+GPIO 26 level 1 at tick 1978718478
+GPIO 26 level 0 at tick 1978718488
+GPIO 26 level 1 at tick 1978718498
+GPIO 26 level 0 at tick 1978718513
+GPIO 26 level 1 at tick 1978718523
+GPIO 26 level 0 at tick 1978718533
+GPIO 26 level 1 at tick 1978718543
+GPIO 26 level 0 at tick 1978718553
+GPIO 26 level 1 at tick 1978718563
+GPIO 26 level 0 at tick 1978718578
+GPIO 26 level 1 at tick 1978718588
+GPIO 26 level 0 at tick 1978718598
+GPIO 26 level 1 at tick 1978718608
+GPIO 26 level 0 at tick 1978718618
+GPIO 26 level 1 at tick 1978718633
+GPIO 26 level 0 at tick 1978718643
+GPIO 26 level 1 at tick 1978718653
+GPIO 26 level 0 at tick 1978718663
+GPIO 26 level 1 at tick 1978718673
+GPIO 26 level 0 at tick 1978718688
+GPIO 26 level 1 at tick 1978718698
+GPIO 26 level 0 at tick 1978718708
+GPIO 26 level 1 at tick 1978718718
+GPIO 26 level 0 at tick 1978718733
+GPIO 26 level 1 at tick 1978718738
+GPIO 26 level 0 at tick 1978718753
+GPIO 26 level 1 at tick 1978718763
+GPIO 26 level 0 at tick 1978718773
+GPIO 26 level 1 at tick 1978718783
+GPIO 26 level 0 at tick 1978718798
+GPIO 26 level 1 at tick 1978718808
+GPIO 26 level 0 at tick 1978718818
+GPIO 26 level 1 at tick 1978718828
+GPIO 26 level 0 at tick 1978718843
+GPIO 26 level 1 at tick 1978718848
+GPIO 26 level 0 at tick 1978718863
+GPIO 26 level 1 at tick 1978718868
+GPIO 26 level 0 at tick 1978718883
+GPIO 26 level 1 at tick 1978718893
+GPIO 26 level 0 at tick 1978718908
+GPIO 26 level 1 at tick 1978718913
+GPIO 26 level 0 at tick 1978718928
+GPIO 26 level 1 at tick 1978718938
+GPIO 26 level 0 at tick 1978718953
+GPIO 26 level 1 at tick 1978718959
+GPIO 26 level 0 at tick 1978718974
+GPIO 26 level 1 at tick 1978718984
+GPIO 26 level 0 at tick 1978718994
+GPIO 26 level 1 at tick 1978719004
+GPIO 26 level 0 at tick 1978719019
+GPIO 26 level 1 at tick 1978719029
+GPIO 26 level 0 at tick 1978719039
+GPIO 26 level 1 at tick 1978719049
+GPIO 26 level 0 at tick 1978719064
+GPIO 26 level 1 at tick 1978719074
+GPIO 26 level 0 at tick 1978719083
+GPIO 26 level 1 at tick 1978719093
+GPIO 26 level 0 at tick 1978719103
+GPIO 26 level 1 at tick 1978719113
+GPIO 26 level 0 at tick 1978719128
+GPIO 26 level 1 at tick 1978719138
+GPIO 26 level 0 at tick 1978719148
+GPIO 26 level 1 at tick 1978719158
+GPIO 26 level 0 at tick 1978719173
+GPIO 26 level 1 at tick 1978719178
+GPIO 26 level 0 at tick 1978719193
+GPIO 26 level 1 at tick 1978719203
+GPIO 26 level 0 at tick 1978719213
+GPIO 26 level 1 at tick 1978719223
+GPIO 26 level 0 at tick 1978719238
+GPIO 26 level 1 at tick 1978719248
+GPIO 26 level 0 at tick 1978719258
+GPIO 26 level 1 at tick 1978719268
+GPIO 26 level 0 at tick 1978719283
+GPIO 26 level 1 at tick 1978719288
+GPIO 26 level 0 at tick 1978719303
+GPIO 26 level 1 at tick 1978719313
+GPIO 26 level 0 at tick 1978719323
+GPIO 26 level 1 at tick 1978719333
+GPIO 26 level 0 at tick 1978719348
+GPIO 26 level 1 at tick 1978719358
+GPIO 26 level 0 at tick 1978719368
+GPIO 26 level 1 at tick 1978719378
+GPIO 26 level 0 at tick 1978719388
+GPIO 26 level 1 at tick 1978719398
+GPIO 26 level 0 at tick 1978719413
+GPIO 26 level 1 at tick 1978719423
+GPIO 26 level 0 at tick 1978719433
+GPIO 26 level 1 at tick 1978719443
+GPIO 26 level 0 at tick 1978719458
+GPIO 26 level 1 at tick 1978719468
+GPIO 26 level 0 at tick 1978719478
+GPIO 26 level 1 at tick 1978719488
+GPIO 26 level 0 at tick 1978719503
+GPIO 26 level 1 at tick 1978719513
+GPIO 26 level 0 at tick 1978719523
+GPIO 26 level 1 at tick 1978719533
+GPIO 26 level 0 at tick 1978719543
+GPIO 26 level 1 at tick 1978719553
+GPIO 26 level 0 at tick 1978719568
+GPIO 26 level 1 at tick 1978719578
+GPIO 26 level 0 at tick 1978719588
+GPIO 26 level 1 at tick 1978719598
+GPIO 26 level 0 at tick 1978719608
+GPIO 26 level 1 at tick 1978719623
+GPIO 26 level 0 at tick 1978719633
+GPIO 26 level 1 at tick 1978719643
+GPIO 26 level 0 at tick 1978719653
+GPIO 26 level 1 at tick 1978719663
+GPIO 26 level 0 at tick 1978719678
+GPIO 26 level 1 at tick 1978719683
+GPIO 26 level 0 at tick 1978719698
+GPIO 26 level 1 at tick 1978719708
+GPIO 26 level 0 at tick 1978719718
+GPIO 26 level 1 at tick 1978719728
+GPIO 26 level 0 at tick 1978719743
+GPIO 26 level 1 at tick 1978719753
+GPIO 26 level 0 at tick 1978719763
+GPIO 26 level 1 at tick 1978719773
+GPIO 26 level 0 at tick 1978719788
+GPIO 26 level 1 at tick 1978719798
+GPIO 26 level 0 at tick 1978719808
+GPIO 26 level 1 at tick 1978719818
+GPIO 26 level 0 at tick 1978719833
+GPIO 26 level 1 at tick 1978719838
+GPIO 26 level 0 at tick 1978719853
+GPIO 26 level 1 at tick 1978719863
+GPIO 26 level 0 at tick 1978719873
+GPIO 26 level 1 at tick 1978719883
+GPIO 26 level 0 at tick 1978719898
+GPIO 26 level 1 at tick 1978719908
+GPIO 26 level 0 at tick 1978719918
+GPIO 26 level 1 at tick 1978719928
+GPIO 26 level 0 at tick 1978719943
+GPIO 26 level 1 at tick 1978719948
+GPIO 26 level 0 at tick 1978719963
+GPIO 26 level 1 at tick 1978719973
+GPIO 26 level 0 at tick 1978719983
+GPIO 26 level 1 at tick 1978719993
+GPIO 26 level 0 at tick 1978720008
+GPIO 26 level 1 at tick 1978720018
+GPIO 26 level 0 at tick 1978720028
+GPIO 26 level 1 at tick 1978720038
+GPIO 26 level 0 at tick 1978720053
+GPIO 26 level 1 at tick 1978720058
+GPIO 26 level 0 at tick 1978720073
+GPIO 26 level 1 at tick 1978720085
+GPIO 26 level 0 at tick 1978720095
+GPIO 26 level 1 at tick 1978720105
+GPIO 26 level 0 at tick 1978720115
+GPIO 26 level 1 at tick 1978720130
+GPIO 26 level 0 at tick 1978720140
+GPIO 26 level 1 at tick 1978720150
+GPIO 26 level 0 at tick 1978720160
+GPIO 26 level 1 at tick 1978720170
+GPIO 26 level 0 at tick 1978720185
+GPIO 26 level 1 at tick 1978720195
+GPIO 26 level 0 at tick 1978720205
+GPIO 26 level 1 at tick 1978720213
+GPIO 26 level 0 at tick 1978720228
+GPIO 26 level 1 at tick 1978720238
+GPIO 26 level 0 at tick 1978720248
+GPIO 26 level 1 at tick 1978720258
+GPIO 26 level 0 at tick 1978720273
+GPIO 26 level 1 at tick 1978720278
+GPIO 26 level 0 at tick 1978720293
+GPIO 26 level 1 at tick 1978720303
+GPIO 26 level 0 at tick 1978720313
+GPIO 26 level 1 at tick 1978720323
+GPIO 26 level 0 at tick 1978720338
+GPIO 26 level 1 at tick 1978720348
+GPIO 26 level 0 at tick 1978720358
+GPIO 26 level 1 at tick 1978720368
+GPIO 26 level 0 at tick 1978720383
+GPIO 26 level 1 at tick 1978720388
+GPIO 26 level 0 at tick 1978720403
+GPIO 26 level 1 at tick 1978720413
+GPIO 26 level 0 at tick 1978720423
+GPIO 26 level 1 at tick 1978720433
+GPIO 26 level 0 at tick 1978720448
+GPIO 26 level 1 at tick 1978720458
+GPIO 26 level 0 at tick 1978720468
+GPIO 26 level 1 at tick 1978720478
+GPIO 26 level 0 at tick 1978720493
+GPIO 26 level 1 at tick 1978720498
+GPIO 26 level 0 at tick 1978720513
+GPIO 26 level 1 at tick 1978720523
+GPIO 26 level 0 at tick 1978720533
+GPIO 26 level 1 at tick 1978720543
+GPIO 26 level 0 at tick 1978720558
+GPIO 26 level 1 at tick 1978720568
+GPIO 26 level 0 at tick 1978720578
+GPIO 26 level 1 at tick 1978720588
+GPIO 26 level 0 at tick 1978720603
+GPIO 26 level 1 at tick 1978720608
+GPIO 26 level 0 at tick 1978720623
+GPIO 26 level 1 at tick 1978720633
+GPIO 26 level 0 at tick 1978720643
+GPIO 26 level 1 at tick 1978720653
+GPIO 26 level 0 at tick 1978720668
+GPIO 26 level 1 at tick 1978720678
+GPIO 26 level 0 at tick 1978720688
+GPIO 26 level 1 at tick 1978720698
+GPIO 26 level 0 at tick 1978720713
+GPIO 26 level 1 at tick 1978720723
+GPIO 26 level 0 at tick 1978720733
+GPIO 26 level 1 at tick 1978720743
+GPIO 26 level 0 at tick 1978720753
+GPIO 26 level 1 at tick 1978720763
+GPIO 26 level 0 at tick 1978720778
+GPIO 26 level 1 at tick 1978720788
+GPIO 26 level 0 at tick 1978720798
+GPIO 26 level 1 at tick 1978720808
+GPIO 26 level 0 at tick 1978720823
+GPIO 26 level 1 at tick 1978720828
+GPIO 26 level 0 at tick 1978720843
+GPIO 26 level 1 at tick 1978720853
+GPIO 26 level 0 at tick 1978720863
+GPIO 26 level 1 at tick 1978720873
+GPIO 26 level 0 at tick 1978720883
+GPIO 26 level 1 at tick 1978720898
+GPIO 26 level 0 at tick 1978720908
+GPIO 26 level 1 at tick 1978720918
+GPIO 26 level 0 at tick 1978720928
+GPIO 26 level 1 at tick 1978720938
+GPIO 26 level 0 at tick 1978720953
+GPIO 26 level 1 at tick 1978720964
+GPIO 26 level 0 at tick 1978720974
+GPIO 26 level 1 at tick 1978720984
+GPIO 26 level 0 at tick 1978720999
+GPIO 26 level 1 at tick 1978721009
+GPIO 26 level 0 at tick 1978721019
+GPIO 26 level 1 at tick 1978721029
+GPIO 26 level 0 at tick 1978721044
+GPIO 26 level 1 at tick 1978721049
+GPIO 26 level 0 at tick 1978721064
+GPIO 26 level 1 at tick 1978721074
+GPIO 26 level 0 at tick 1978721083
+GPIO 26 level 1 at tick 1978721098
+GPIO 26 level 0 at tick 1978721113
+GPIO 26 level 1 at tick 1978721118
+GPIO 26 level 0 at tick 1978721133
+GPIO 26 level 1 at tick 1978721143
+GPIO 26 level 0 at tick 1978721153
+GPIO 26 level 1 at tick 1978721163
+GPIO 26 level 0 at tick 1978721178
+GPIO 26 level 1 at tick 1978721183
+GPIO 26 level 0 at tick 1978721198
+GPIO 26 level 1 at tick 1978721208
+GPIO 26 level 0 at tick 1978721218
+GPIO 26 level 1 at tick 1978721228
+GPIO 26 level 0 at tick 1978721243
+GPIO 26 level 1 at tick 1978721253
+GPIO 26 level 0 at tick 1978721263
+GPIO 26 level 1 at tick 1978721273
+GPIO 26 level 0 at tick 1978721283
+GPIO 26 level 1 at tick 1978721293
+GPIO 26 level 0 at tick 1978721308
+GPIO 26 level 1 at tick 1978721318
+GPIO 26 level 0 at tick 1978721328
+GPIO 26 level 1 at tick 1978721338
+GPIO 26 level 0 at tick 1978721353
+GPIO 26 level 1 at tick 1978721358
+GPIO 26 level 0 at tick 1978721373
+GPIO 26 level 1 at tick 1978721383
+GPIO 26 level 0 at tick 1978721398
+GPIO 26 level 1 at tick 1978721403
+GPIO 26 level 0 at tick 1978721418
+GPIO 26 level 1 at tick 1978721428
+GPIO 26 level 0 at tick 1978721438
+GPIO 26 level 1 at tick 1978721448
+GPIO 26 level 0 at tick 1978721463
+GPIO 26 level 1 at tick 1978721473
+GPIO 26 level 0 at tick 1978721483
+GPIO 26 level 1 at tick 1978721493
+GPIO 26 level 0 at tick 1978721508
+GPIO 26 level 1 at tick 1978721513
+GPIO 26 level 0 at tick 1978721528
+GPIO 26 level 1 at tick 1978721538
+GPIO 26 level 0 at tick 1978721548
+GPIO 26 level 1 at tick 1978721558
+GPIO 26 level 0 at tick 1978721573
+GPIO 26 level 1 at tick 1978721583
+GPIO 26 level 0 at tick 1978721593
+GPIO 26 level 1 at tick 1978721603
+GPIO 26 level 0 at tick 1978721618
+GPIO 26 level 1 at tick 1978721623
+GPIO 26 level 0 at tick 1978721638
+GPIO 26 level 1 at tick 1978721648
+GPIO 26 level 0 at tick 1978721658
+GPIO 26 level 1 at tick 1978721668
+GPIO 26 level 0 at tick 1978721683
+GPIO 26 level 1 at tick 1978721693
+GPIO 26 level 0 at tick 1978721703
+GPIO 26 level 1 at tick 1978721713
+GPIO 26 level 0 at tick 1978721728
+GPIO 26 level 1 at tick 1978721733
+GPIO 26 level 0 at tick 1978721748
+GPIO 26 level 1 at tick 1978721758
+GPIO 26 level 0 at tick 1978721768
+GPIO 26 level 1 at tick 1978721778
+GPIO 26 level 0 at tick 1978721793
+GPIO 26 level 1 at tick 1978721803
+GPIO 26 level 0 at tick 1978721813
+GPIO 26 level 1 at tick 1978721823
+GPIO 26 level 0 at tick 1978721833
+GPIO 26 level 1 at tick 1978721843
+GPIO 26 level 0 at tick 1978721858
+GPIO 26 level 1 at tick 1978721868
+GPIO 26 level 0 at tick 1978721878
+GPIO 26 level 1 at tick 1978721888
+GPIO 26 level 0 at tick 1978721903
+GPIO 26 level 1 at tick 1978721913
+GPIO 26 level 0 at tick 1978721923
+GPIO 26 level 1 at tick 1978721933
+GPIO 26 level 0 at tick 1978721948
+GPIO 26 level 1 at tick 1978721958
+GPIO 26 level 0 at tick 1978721968
+GPIO 26 level 1 at tick 1978721978
+GPIO 26 level 0 at tick 1978721988
+GPIO 26 level 1 at tick 1978721998
+GPIO 26 level 0 at tick 1978722013
+GPIO 26 level 1 at tick 1978722023
+GPIO 26 level 0 at tick 1978722033
+GPIO 26 level 1 at tick 1978722043
+GPIO 26 level 0 at tick 1978722058
+GPIO 26 level 1 at tick 1978722063
+GPIO 26 level 0 at tick 1978722078
+GPIO 26 level 1 at tick 1978722085
+GPIO 26 level 0 at tick 1978722100
+GPIO 26 level 1 at tick 1978722110
+GPIO 26 level 0 at tick 1978722125
+GPIO 26 level 1 at tick 1978722130
+GPIO 26 level 0 at tick 1978722145
+GPIO 26 level 1 at tick 1978722155
+GPIO 26 level 0 at tick 1978722170
+GPIO 26 level 1 at tick 1978722175
+GPIO 26 level 0 at tick 1978722190
+GPIO 26 level 1 at tick 1978722200
+GPIO 26 level 0 at tick 1978722208
+GPIO 26 level 1 at tick 1978722218
+GPIO 26 level 0 at tick 1978722233
+GPIO 26 level 1 at tick 1978722243
+GPIO 26 level 0 at tick 1978722253
+GPIO 26 level 1 at tick 1978722263
+GPIO 26 level 0 at tick 1978722278
+GPIO 26 level 1 at tick 1978722288
+GPIO 26 level 0 at tick 1978722298
+GPIO 26 level 1 at tick 1978722308
+GPIO 26 level 0 at tick 1978722318
+GPIO 26 level 1 at tick 1978722328
+GPIO 26 level 0 at tick 1978722343
+GPIO 26 level 1 at tick 1978722353
+GPIO 26 level 0 at tick 1978722363
+GPIO 26 level 1 at tick 1978722373
+GPIO 26 level 0 at tick 1978722388
+GPIO 26 level 1 at tick 1978722398
+GPIO 26 level 0 at tick 1978722408
+GPIO 26 level 1 at tick 1978722418
+GPIO 26 level 0 at tick 1978722428
+GPIO 26 level 1 at tick 1978722438
+GPIO 26 level 0 at tick 1978722453
+GPIO 26 level 1 at tick 1978722463
+GPIO 26 level 0 at tick 1978722473
+GPIO 26 level 1 at tick 1978722483
+GPIO 26 level 0 at tick 1978722498
+GPIO 26 level 1 at tick 1978722503
+GPIO 26 level 0 at tick 1978722518
+GPIO 26 level 1 at tick 1978722528
+GPIO 26 level 0 at tick 1978722538
+GPIO 26 level 1 at tick 1978722548
+GPIO 26 level 0 at tick 1978722563
+GPIO 26 level 1 at tick 1978722573
+GPIO 26 level 0 at tick 1978722583
+GPIO 26 level 1 at tick 1978722593
+GPIO 26 level 0 at tick 1978722603
+GPIO 26 level 1 at tick 1978722613
+GPIO 26 level 0 at tick 1978722628
+GPIO 26 level 1 at tick 1978722638
+GPIO 26 level 0 at tick 1978722648
+GPIO 26 level 1 at tick 1978722658
+GPIO 26 level 0 at tick 1978722673
+GPIO 26 level 1 at tick 1978722683
+GPIO 26 level 0 at tick 1978722693
+GPIO 26 level 1 at tick 1978722703
+GPIO 26 level 0 at tick 1978722718
+GPIO 26 level 1 at tick 1978722723
+GPIO 26 level 0 at tick 1978722738
+GPIO 26 level 1 at tick 1978722748
+GPIO 26 level 0 at tick 1978722758
+GPIO 26 level 1 at tick 1978722768
+GPIO 26 level 0 at tick 1978722783
+GPIO 26 level 1 at tick 1978722793
+GPIO 26 level 0 at tick 1978722803
+GPIO 26 level 1 at tick 1978722813
+GPIO 26 level 0 at tick 1978722828
+GPIO 26 level 1 at tick 1978722833
+GPIO 26 level 0 at tick 1978722848
+GPIO 26 level 1 at tick 1978722858
+GPIO 26 level 0 at tick 1978722868
+GPIO 26 level 1 at tick 1978722878
+GPIO 26 level 0 at tick 1978722893
+GPIO 26 level 1 at tick 1978722898
+GPIO 26 level 0 at tick 1978722913
+GPIO 26 level 1 at tick 1978722923
+GPIO 26 level 0 at tick 1978722938
+GPIO 26 level 1 at tick 1978722943
+GPIO 26 level 0 at tick 1978722959
+GPIO 26 level 1 at tick 1978722969
+GPIO 26 level 0 at tick 1978722979
+GPIO 26 level 1 at tick 1978722989
+GPIO 26 level 0 at tick 1978723004
+GPIO 26 level 1 at tick 1978723014
+GPIO 26 level 0 at tick 1978723024
+GPIO 26 level 1 at tick 1978723034
+GPIO 26 level 0 at tick 1978723049
+GPIO 26 level 1 at tick 1978723059
+GPIO 26 level 0 at tick 1978723069
+GPIO 26 level 1 at tick 1978723079
+GPIO 26 level 0 at tick 1978723088
+GPIO 26 level 1 at tick 1978723098
+GPIO 26 level 0 at tick 1978723113
+GPIO 26 level 1 at tick 1978723123
+GPIO 26 level 0 at tick 1978723133
+GPIO 26 level 1 at tick 1978723143
+GPIO 26 level 0 at tick 1978723158
+GPIO 26 level 1 at tick 1978723163
+GPIO 26 level 0 at tick 1978723178
+GPIO 26 level 1 at tick 1978723188
+GPIO 26 level 0 at tick 1978723198
+GPIO 26 level 1 at tick 1978723208
+GPIO 26 level 0 at tick 1978723223
+GPIO 26 level 1 at tick 1978723233
+GPIO 26 level 0 at tick 1978723243
+GPIO 26 level 1 at tick 1978723253
+GPIO 26 level 0 at tick 1978723268
+GPIO 26 level 1 at tick 1978723273
+GPIO 26 level 0 at tick 1978723288
+GPIO 26 level 1 at tick 1978723298
+GPIO 26 level 0 at tick 1978723308
+GPIO 26 level 1 at tick 1978723318
+GPIO 26 level 0 at tick 1978723328
+GPIO 26 level 1 at tick 1978723343
+GPIO 26 level 0 at tick 1978723353
+GPIO 26 level 1 at tick 1978723363
+GPIO 26 level 0 at tick 1978723373
+GPIO 26 level 1 at tick 1978723383
+GPIO 26 level 0 at tick 1978723398
+GPIO 26 level 1 at tick 1978723408
+GPIO 26 level 0 at tick 1978723418
+GPIO 26 level 1 at tick 1978723428
+GPIO 26 level 0 at tick 1978723443
+GPIO 26 level 1 at tick 1978723453
+GPIO 26 level 0 at tick 1978723463
+GPIO 26 level 1 at tick 1978723473
+GPIO 26 level 0 at tick 1978723488
+GPIO 26 level 1 at tick 1978723498
+GPIO 26 level 0 at tick 1978723508
+GPIO 26 level 1 at tick 1978723518
+GPIO 26 level 0 at tick 1978723528
+GPIO 26 level 1 at tick 1978723538
+GPIO 26 level 0 at tick 1978723553
+GPIO 26 level 1 at tick 1978723563
+GPIO 26 level 0 at tick 1978723573
+GPIO 26 level 1 at tick 1978723583
+GPIO 26 level 0 at tick 1978723598
+GPIO 26 level 1 at tick 1978723603
+GPIO 26 level 0 at tick 1978723618
+GPIO 26 level 1 at tick 1978723628
+GPIO 26 level 0 at tick 1978723638
+GPIO 26 level 1 at tick 1978723648
+GPIO 26 level 0 at tick 1978723663
+GPIO 26 level 1 at tick 1978723668
+GPIO 26 level 0 at tick 1978723683
+GPIO 26 level 1 at tick 1978723693
+GPIO 26 level 0 at tick 1978723708
+GPIO 26 level 1 at tick 1978723713
+GPIO 26 level 0 at tick 1978723728
+GPIO 26 level 1 at tick 1978723738
+GPIO 26 level 0 at tick 1978723748
+GPIO 26 level 1 at tick 1978723758
+GPIO 26 level 0 at tick 1978723773
+GPIO 26 level 1 at tick 1978723783
+GPIO 26 level 0 at tick 1978723793
+GPIO 26 level 1 at tick 1978723803
+GPIO 26 level 0 at tick 1978723818
+GPIO 26 level 1 at tick 1978723823
+GPIO 26 level 0 at tick 1978723838
+GPIO 26 level 1 at tick 1978723848
+GPIO 26 level 0 at tick 1978723858
+GPIO 26 level 1 at tick 1978723868
+GPIO 26 level 0 at tick 1978723883
+GPIO 26 level 1 at tick 1978723893
+GPIO 26 level 0 at tick 1978723903
+GPIO 26 level 1 at tick 1978723913
+GPIO 26 level 0 at tick 1978723928
+GPIO 26 level 1 at tick 1978723938
+GPIO 26 level 0 at tick 1978723948
+GPIO 26 level 1 at tick 1978723958
+GPIO 26 level 0 at tick 1978723968
+GPIO 26 level 1 at tick 1978723978
+GPIO 26 level 0 at tick 1978723993
+GPIO 26 level 1 at tick 1978724003
+GPIO 26 level 0 at tick 1978724013
+GPIO 26 level 1 at tick 1978724023
+GPIO 26 level 0 at tick 1978724038
+GPIO 26 level 1 at tick 1978724043
+GPIO 26 level 0 at tick 1978724058
+GPIO 26 level 1 at tick 1978724068
+GPIO 26 level 0 at tick 1978724078
+GPIO 26 level 1 at tick 1978724090
+GPIO 26 level 0 at tick 1978724100
+GPIO 26 level 1 at tick 1978724115
+GPIO 26 level 0 at tick 1978724125
+GPIO 26 level 1 at tick 1978724135
+GPIO 26 level 0 at tick 1978724145
+GPIO 26 level 1 at tick 1978724155
+GPIO 26 level 0 at tick 1978724170
+GPIO 26 level 1 at tick 1978724180
+GPIO 26 level 0 at tick 1978724190
+GPIO 26 level 1 at tick 1978724200
+GPIO 26 level 0 at tick 1978724213
+GPIO 26 level 1 at tick 1978724223
+GPIO 26 level 0 at tick 1978724233
+GPIO 26 level 1 at tick 1978724243
+GPIO 26 level 0 at tick 1978724258
+GPIO 26 level 1 at tick 1978724263
+GPIO 26 level 0 at tick 1978724278
+GPIO 26 level 1 at tick 1978724288
+GPIO 26 level 0 at tick 1978724298
+GPIO 26 level 1 at tick 1978724308
+GPIO 26 level 0 at tick 1978724323
+GPIO 26 level 1 at tick 1978724333
+GPIO 26 level 0 at tick 1978724343
+GPIO 26 level 1 at tick 1978724353
+GPIO 26 level 0 at tick 1978724368
+GPIO 26 level 1 at tick 1978724373
+GPIO 26 level 0 at tick 1978724388
+GPIO 26 level 1 at tick 1978724398
+GPIO 26 level 0 at tick 1978724408
+GPIO 26 level 1 at tick 1978724418
+GPIO 26 level 0 at tick 1978724433
+GPIO 26 level 1 at tick 1978724443
+GPIO 26 level 0 at tick 1978724453
+GPIO 26 level 1 at tick 1978724463
+GPIO 26 level 0 at tick 1978724478
+GPIO 26 level 1 at tick 1978724483
+GPIO 26 level 0 at tick 1978724498
+GPIO 26 level 1 at tick 1978724508
+GPIO 26 level 0 at tick 1978724518
+GPIO 26 level 1 at tick 1978724528
+GPIO 26 level 0 at tick 1978724543
+GPIO 26 level 1 at tick 1978724553
+GPIO 26 level 0 at tick 1978724563
+GPIO 26 level 1 at tick 1978724573
+GPIO 26 level 0 at tick 1978724588
+GPIO 26 level 1 at tick 1978724593
+GPIO 26 level 0 at tick 1978724608
+GPIO 26 level 1 at tick 1978724618
+GPIO 26 level 0 at tick 1978724628
+GPIO 26 level 1 at tick 1978724638
+GPIO 26 level 0 at tick 1978724653
+GPIO 26 level 1 at tick 1978724663
+GPIO 26 level 0 at tick 1978724673
+GPIO 26 level 1 at tick 1978724683
+GPIO 26 level 0 at tick 1978724698
+GPIO 26 level 1 at tick 1978724708
+GPIO 26 level 0 at tick 1978724718
+GPIO 26 level 1 at tick 1978724728
+GPIO 26 level 0 at tick 1978724738
+GPIO 26 level 1 at tick 1978724748
+GPIO 26 level 0 at tick 1978724763
+GPIO 26 level 1 at tick 1978724773
+GPIO 26 level 0 at tick 1978724783
+GPIO 26 level 1 at tick 1978724793
+GPIO 26 level 0 at tick 1978724808
+GPIO 26 level 1 at tick 1978724813
+GPIO 26 level 0 at tick 1978724828
+GPIO 26 level 1 at tick 1978724838
+GPIO 26 level 0 at tick 1978724848
+GPIO 26 level 1 at tick 1978724858
+GPIO 26 level 0 at tick 1978724868
+GPIO 26 level 1 at tick 1978724883
+GPIO 26 level 0 at tick 1978724893
+GPIO 26 level 1 at tick 1978724903
+GPIO 26 level 0 at tick 1978724913
+GPIO 26 level 1 at tick 1978724928
+GPIO 26 level 0 at tick 1978724938
+GPIO 26 level 1 at tick 1978724948
+GPIO 26 level 0 at tick 1978724959
+GPIO 26 level 1 at tick 1978724969
+GPIO 26 level 0 at tick 1978724984
+GPIO 26 level 1 at tick 1978724994
+GPIO 26 level 0 at tick 1978725004
+GPIO 26 level 1 at tick 1978725014
+GPIO 26 level 0 at tick 1978725029
+GPIO 26 level 1 at tick 1978725034
+GPIO 26 level 0 at tick 1978725049
+GPIO 26 level 1 at tick 1978725059
+GPIO 26 level 0 at tick 1978725069
+GPIO 26 level 1 at tick 1978725079
+GPIO 26 level 0 at tick 1978725093
+GPIO 26 level 1 at tick 1978725103
+GPIO 26 level 0 at tick 1978725113
+GPIO 26 level 1 at tick 1978725123
+GPIO 26 level 0 at tick 1978725138
+GPIO 26 level 1 at tick 1978725148
+GPIO 26 level 0 at tick 1978725158
+GPIO 26 level 1 at tick 1978725168
+GPIO 26 level 0 at tick 1978725178
+GPIO 26 level 1 at tick 1978725188
+GPIO 26 level 0 at tick 1978725203
+GPIO 26 level 1 at tick 1978725213
+GPIO 26 level 0 at tick 1978725223
+GPIO 26 level 1 at tick 1978725233
+GPIO 26 level 0 at tick 1978725248
+GPIO 26 level 1 at tick 1978725253
+GPIO 26 level 0 at tick 1978725268
+GPIO 26 level 1 at tick 1978725278
+GPIO 26 level 0 at tick 1978725288
+GPIO 26 level 1 at tick 1978725298
+GPIO 26 level 0 at tick 1978725313
+GPIO 26 level 1 at tick 1978725323
+GPIO 26 level 0 at tick 1978725333
+GPIO 26 level 1 at tick 1978725343
+GPIO 26 level 0 at tick 1978725358
+GPIO 26 level 1 at tick 1978725363
+GPIO 26 level 0 at tick 1978725378
+GPIO 26 level 1 at tick 1978725388
+GPIO 26 level 0 at tick 1978725398
+GPIO 26 level 1 at tick 1978725408
+GPIO 26 level 0 at tick 1978725423
+GPIO 26 level 1 at tick 1978725433
+GPIO 26 level 0 at tick 1978725443
+GPIO 26 level 1 at tick 1978725453
+GPIO 26 level 0 at tick 1978725468
+GPIO 26 level 1 at tick 1978725478
+GPIO 26 level 0 at tick 1978725488
+GPIO 26 level 1 at tick 1978725498
+GPIO 26 level 0 at tick 1978725508
+GPIO 26 level 1 at tick 1978725518
+GPIO 26 level 0 at tick 1978725533
+GPIO 26 level 1 at tick 1978725543
+GPIO 26 level 0 at tick 1978725553
+GPIO 26 level 1 at tick 1978725563
+GPIO 26 level 0 at tick 1978725578
+GPIO 26 level 1 at tick 1978725583
+GPIO 26 level 0 at tick 1978725598
+GPIO 26 level 1 at tick 1978725608
+GPIO 26 level 0 at tick 1978725618
+GPIO 26 level 1 at tick 1978725628
+GPIO 26 level 0 at tick 1978725643
+GPIO 26 level 1 at tick 1978725653
+GPIO 26 level 0 at tick 1978725663
+GPIO 26 level 1 at tick 1978725673
+GPIO 26 level 0 at tick 1978725683
+GPIO 26 level 1 at tick 1978725698
+GPIO 26 level 0 at tick 1978725708
+GPIO 26 level 1 at tick 1978725718
+GPIO 26 level 0 at tick 1978725728
+GPIO 26 level 1 at tick 1978725738
+GPIO 26 level 0 at tick 1978725753
+GPIO 26 level 1 at tick 1978725758
+GPIO 26 level 0 at tick 1978725773
+GPIO 26 level 1 at tick 1978725783
+GPIO 26 level 0 at tick 1978725798
+GPIO 26 level 1 at tick 1978725803
+GPIO 26 level 0 at tick 1978725818
+GPIO 26 level 1 at tick 1978725828
+GPIO 26 level 0 at tick 1978725838
+GPIO 26 level 1 at tick 1978725848
+GPIO 26 level 0 at tick 1978725863
+GPIO 26 level 1 at tick 1978725873
+GPIO 26 level 0 at tick 1978725883
+GPIO 26 level 1 at tick 1978725893
+GPIO 26 level 0 at tick 1978725908
+GPIO 26 level 1 at tick 1978725913
+GPIO 26 level 0 at tick 1978725928
+GPIO 26 level 1 at tick 1978725938
+GPIO 26 level 0 at tick 1978725948
+GPIO 26 level 1 at tick 1978725958
+GPIO 26 level 0 at tick 1978725973
+GPIO 26 level 1 at tick 1978725983
+GPIO 26 level 0 at tick 1978725993
+GPIO 26 level 1 at tick 1978726003
+GPIO 26 level 0 at tick 1978726018
+GPIO 26 level 1 at tick 1978726028
+GPIO 26 level 0 at tick 1978726038
+GPIO 26 level 1 at tick 1978726048
+GPIO 26 level 0 at tick 1978726058
+GPIO 26 level 1 at tick 1978726068
+GPIO 26 level 0 at tick 1978726085
+GPIO 26 level 1 at tick 1978726095
+GPIO 26 level 0 at tick 1978726105
+GPIO 26 level 1 at tick 1978726115
+GPIO 26 level 0 at tick 1978726130
+GPIO 26 level 1 at tick 1978726140
+GPIO 26 level 0 at tick 1978726150
+GPIO 26 level 1 at tick 1978726160
+GPIO 26 level 0 at tick 1978726170
+GPIO 26 level 1 at tick 1978726180
+GPIO 26 level 0 at tick 1978726195
+GPIO 26 level 1 at tick 1978726205
+GPIO 26 level 0 at tick 1978726213
+GPIO 26 level 1 at tick 1978726223
+GPIO 26 level 0 at tick 1978726238
+GPIO 26 level 1 at tick 1978726248
+GPIO 26 level 0 at tick 1978726258
+GPIO 26 level 1 at tick 1978726268
+GPIO 26 level 0 at tick 1978726278
+GPIO 26 level 1 at tick 1978726288
+GPIO 26 level 0 at tick 1978726303
+GPIO 26 level 1 at tick 1978726313
+GPIO 26 level 0 at tick 1978726323
+GPIO 26 level 1 at tick 1978726333
+GPIO 26 level 0 at tick 1978726348
+GPIO 26 level 1 at tick 1978726353
+GPIO 26 level 0 at tick 1978726368
+GPIO 26 level 1 at tick 1978726378
+GPIO 26 level 0 at tick 1978726388
+GPIO 26 level 1 at tick 1978726398
+GPIO 26 level 0 at tick 1978726413
+GPIO 26 level 1 at tick 1978726423
+GPIO 26 level 0 at tick 1978726433
+GPIO 26 level 1 at tick 1978726443
+GPIO 26 level 0 at tick 1978726453
+GPIO 26 level 1 at tick 1978726463
+GPIO 26 level 0 at tick 1978726478
+GPIO 26 level 1 at tick 1978726488
+GPIO 26 level 0 at tick 1978726498
+GPIO 26 level 1 at tick 1978726508
+GPIO 26 level 0 at tick 1978726523
+GPIO 26 level 1 at tick 1978726528
+GPIO 26 level 0 at tick 1978726543
+GPIO 26 level 1 at tick 1978726553
+GPIO 26 level 0 at tick 1978726568
+GPIO 26 level 1 at tick 1978726573
+GPIO 26 level 0 at tick 1978726588
+GPIO 26 level 1 at tick 1978726598
+GPIO 26 level 0 at tick 1978726608
+GPIO 26 level 1 at tick 1978726618
+GPIO 26 level 0 at tick 1978726633
+GPIO 26 level 1 at tick 1978726643
+GPIO 26 level 0 at tick 1978726653
+GPIO 26 level 1 at tick 1978726663
+GPIO 26 level 0 at tick 1978726678
+GPIO 26 level 1 at tick 1978726683
+GPIO 26 level 0 at tick 1978726698
+GPIO 26 level 1 at tick 1978726708
+GPIO 26 level 0 at tick 1978726718
+GPIO 26 level 1 at tick 1978726728
+GPIO 26 level 0 at tick 1978726743
+GPIO 26 level 1 at tick 1978726753
+GPIO 26 level 0 at tick 1978726763
+GPIO 26 level 1 at tick 1978726773
+GPIO 26 level 0 at tick 1978726788
+GPIO 26 level 1 at tick 1978726798
+GPIO 26 level 0 at tick 1978726808
+GPIO 26 level 1 at tick 1978726818
+GPIO 26 level 0 at tick 1978726828
+GPIO 26 level 1 at tick 1978726838
+GPIO 26 level 0 at tick 1978726853
+GPIO 26 level 1 at tick 1978726863
+GPIO 26 level 0 at tick 1978726873
+GPIO 26 level 1 at tick 1978726883
+GPIO 26 level 0 at tick 1978726898
+GPIO 26 level 1 at tick 1978726908
+GPIO 26 level 0 at tick 1978726918
+GPIO 26 level 1 at tick 1978726928
+GPIO 26 level 0 at tick 1978726938
+GPIO 26 level 1 at tick 1978726948
+GPIO 26 level 0 at tick 1978726959
+GPIO 26 level 1 at tick 1978726974
+GPIO 26 level 0 at tick 1978726984
+GPIO 26 level 1 at tick 1978726994
+GPIO 26 level 0 at tick 1978727004
+GPIO 26 level 1 at tick 1978727014
+GPIO 26 level 0 at tick 1978727029
+GPIO 26 level 1 at tick 1978727039
+GPIO 26 level 0 at tick 1978727049
+GPIO 26 level 1 at tick 1978727059
+GPIO 26 level 0 at tick 1978727074
+GPIO 26 level 1 at tick 1978727083
+GPIO 26 level 0 at tick 1978727093
+GPIO 26 level 1 at tick 1978727103
+GPIO 26 level 0 at tick 1978727118
+GPIO 26 level 1 at tick 1978727123
+GPIO 26 level 0 at tick 1978727138
+GPIO 26 level 1 at tick 1978727148
+GPIO 26 level 0 at tick 1978727158
+GPIO 26 level 1 at tick 1978727168
+GPIO 26 level 0 at tick 1978727183
+GPIO 26 level 1 at tick 1978727193
+GPIO 26 level 0 at tick 1978727203
+GPIO 26 level 1 at tick 1978727213
+GPIO 26 level 0 at tick 1978727228
+GPIO 26 level 1 at tick 1978727233
+GPIO 26 level 0 at tick 1978727248
+GPIO 26 level 1 at tick 1978727258
+GPIO 26 level 0 at tick 1978727268
+GPIO 26 level 1 at tick 1978727278
+GPIO 26 level 0 at tick 1978727293
+GPIO 26 level 1 at tick 1978727298
+GPIO 26 level 0 at tick 1978727313
+GPIO 26 level 1 at tick 1978727323
+GPIO 26 level 0 at tick 1978727338
+GPIO 26 level 1 at tick 1978727343
+GPIO 26 level 0 at tick 1978727358
+GPIO 26 level 1 at tick 1978727368
+GPIO 26 level 0 at tick 1978727378
+GPIO 26 level 1 at tick 1978727388
+GPIO 26 level 0 at tick 1978727403
+GPIO 26 level 1 at tick 1978727413
+GPIO 26 level 0 at tick 1978727423
+GPIO 26 level 1 at tick 1978727433
+GPIO 26 level 0 at tick 1978727448
+GPIO 26 level 1 at tick 1978727453
+GPIO 26 level 0 at tick 1978727468
+GPIO 26 level 1 at tick 1978727478
+GPIO 26 level 0 at tick 1978727488
+GPIO 26 level 1 at tick 1978727498
+GPIO 26 level 0 at tick 1978727513
+GPIO 26 level 1 at tick 1978727523
+GPIO 26 level 0 at tick 1978727533
+GPIO 26 level 1 at tick 1978727543
+GPIO 26 level 0 at tick 1978727558
+GPIO 26 level 1 at tick 1978727563
+GPIO 26 level 0 at tick 1978727578
+GPIO 26 level 1 at tick 1978727588
+GPIO 26 level 0 at tick 1978727598
+GPIO 26 level 1 at tick 1978727608
+GPIO 26 level 0 at tick 1978727623
+GPIO 26 level 1 at tick 1978727633
+GPIO 26 level 0 at tick 1978727643
+GPIO 26 level 1 at tick 1978727653
+GPIO 26 level 0 at tick 1978727668
+GPIO 26 level 1 at tick 1978727673
+GPIO 26 level 0 at tick 1978727688
+GPIO 26 level 1 at tick 1978727698
+GPIO 26 level 0 at tick 1978727708
+GPIO 26 level 1 at tick 1978727718
+GPIO 26 level 0 at tick 1978727728
+GPIO 26 level 1 at tick 1978727743
+GPIO 26 level 0 at tick 1978727753
+GPIO 26 level 1 at tick 1978727763
+GPIO 26 level 0 at tick 1978727773
+GPIO 26 level 1 at tick 1978727788
+GPIO 26 level 0 at tick 1978727798
+GPIO 26 level 1 at tick 1978727808
+GPIO 26 level 0 at tick 1978727818
+GPIO 26 level 1 at tick 1978727828
+GPIO 26 level 0 at tick 1978727843
+GPIO 26 level 1 at tick 1978727853
+GPIO 26 level 0 at tick 1978727863
+GPIO 26 level 1 at tick 1978727873
+GPIO 26 level 0 at tick 1978727888
+GPIO 26 level 1 at tick 1978727893
+GPIO 26 level 0 at tick 1978727908
+GPIO 26 level 1 at tick 1978727918
+GPIO 26 level 0 at tick 1978727928
+GPIO 26 level 1 at tick 1978727938
+GPIO 26 level 0 at tick 1978727953
+GPIO 26 level 1 at tick 1978727963
+GPIO 26 level 0 at tick 1978727973
+GPIO 26 level 1 at tick 1978727983
+GPIO 26 level 0 at tick 1978727998
+GPIO 26 level 1 at tick 1978728008
+GPIO 26 level 0 at tick 1978728018
+GPIO 26 level 1 at tick 1978728028
+GPIO 26 level 0 at tick 1978728038
+GPIO 26 level 1 at tick 1978728048
+GPIO 26 level 0 at tick 1978728063
+GPIO 26 level 1 at tick 1978728068
+GPIO 26 level 0 at tick 1978728085
+GPIO 26 level 1 at tick 1978728095
+GPIO 26 level 0 at tick 1978728110
+GPIO 26 level 1 at tick 1978728115
+GPIO 26 level 0 at tick 1978728130
+GPIO 26 level 1 at tick 1978728140
+GPIO 26 level 0 at tick 1978728150
+GPIO 26 level 1 at tick 1978728160
+GPIO 26 level 0 at tick 1978728175
+GPIO 26 level 1 at tick 1978728185
+GPIO 26 level 0 at tick 1978728195
+GPIO 26 level 1 at tick 1978728205
+GPIO 26 level 0 at tick 1978728218
+GPIO 26 level 1 at tick 1978728223
+GPIO 26 level 0 at tick 1978728238
+GPIO 26 level 1 at tick 1978728248
+GPIO 26 level 0 at tick 1978728258
+GPIO 26 level 1 at tick 1978728268
+GPIO 26 level 0 at tick 1978728283
+GPIO 26 level 1 at tick 1978728293
+GPIO 26 level 0 at tick 1978728303
+GPIO 26 level 1 at tick 1978728313
+GPIO 26 level 0 at tick 1978728328
+GPIO 26 level 1 at tick 1978728333
+GPIO 26 level 0 at tick 1978728348
+GPIO 26 level 1 at tick 1978728358
+GPIO 26 level 0 at tick 1978728368
+GPIO 26 level 1 at tick 1978728378
+GPIO 26 level 0 at tick 1978728393
+GPIO 26 level 1 at tick 1978728403
+GPIO 26 level 0 at tick 1978728413
+GPIO 26 level 1 at tick 1978728423
+GPIO 26 level 0 at tick 1978728438
+GPIO 26 level 1 at tick 1978728448
+GPIO 26 level 0 at tick 1978728458
+GPIO 26 level 1 at tick 1978728468
+GPIO 26 level 0 at tick 1978728478
+GPIO 26 level 1 at tick 1978728488
+GPIO 26 level 0 at tick 1978728498
+GPIO 26 level 1 at tick 1978728513
+GPIO 26 level 0 at tick 1978728523
+GPIO 26 level 1 at tick 1978728533
+GPIO 26 level 0 at tick 1978728543
+GPIO 26 level 1 at tick 1978728558
+GPIO 26 level 0 at tick 1978728568
+GPIO 26 level 1 at tick 1978728578
+GPIO 26 level 0 at tick 1978728588
+GPIO 26 level 1 at tick 1978728598
+GPIO 26 level 0 at tick 1978728613
+GPIO 26 level 1 at tick 1978728623
+GPIO 26 level 0 at tick 1978728633
+GPIO 26 level 1 at tick 1978728643
+GPIO 26 level 0 at tick 1978728658
+GPIO 26 level 1 at tick 1978728668
+GPIO 26 level 0 at tick 1978728678
+GPIO 26 level 1 at tick 1978728688
+GPIO 26 level 0 at tick 1978728698
+GPIO 26 level 1 at tick 1978728708
+GPIO 26 level 0 at tick 1978728723
+GPIO 26 level 1 at tick 1978728733
+GPIO 26 level 0 at tick 1978728743
+GPIO 26 level 1 at tick 1978728753
+GPIO 26 level 0 at tick 1978728763
+GPIO 26 level 1 at tick 1978728778
+GPIO 26 level 0 at tick 1978728788
+GPIO 26 level 1 at tick 1978728798
+GPIO 26 level 0 at tick 1978728808
+GPIO 26 level 1 at tick 1978728818
+GPIO 26 level 0 at tick 1978728833
+GPIO 26 level 1 at tick 1978728843
+GPIO 26 level 0 at tick 1978728853
+GPIO 26 level 1 at tick 1978728863
+GPIO 26 level 0 at tick 1978728878
+GPIO 26 level 1 at tick 1978728883
+GPIO 26 level 0 at tick 1978728898
+GPIO 26 level 1 at tick 1978728908
+GPIO 26 level 0 at tick 1978728918
+GPIO 26 level 1 at tick 1978728928
+GPIO 26 level 0 at tick 1978728943
+GPIO 26 level 1 at tick 1978728953
+GPIO 26 level 0 at tick 1978728964
+GPIO 26 level 1 at tick 1978728974
+GPIO 26 level 0 at tick 1978728989
+GPIO 26 level 1 at tick 1978728999
+GPIO 26 level 0 at tick 1978729009
+GPIO 26 level 1 at tick 1978729019
+GPIO 26 level 0 at tick 1978729029
+GPIO 26 level 1 at tick 1978729039
+GPIO 26 level 0 at tick 1978729054
+GPIO 26 level 1 at tick 1978729064
+GPIO 26 level 0 at tick 1978729074
+GPIO 26 level 1 at tick 1978729083
+GPIO 26 level 0 at tick 1978729103
+GPIO 26 level 1 at tick 1978729113
+GPIO 26 level 0 at tick 1978729123
+GPIO 26 level 1 at tick 1978729133
+GPIO 26 level 0 at tick 1978729143
+GPIO 26 level 1 at tick 1978729153
+GPIO 26 level 0 at tick 1978729168
+GPIO 26 level 1 at tick 1978729178
+GPIO 26 level 0 at tick 1978729188
+GPIO 26 level 1 at tick 1978729198
+GPIO 26 level 0 at tick 1978729208
+GPIO 26 level 1 at tick 1978729223
+GPIO 26 level 0 at tick 1978729233
+GPIO 26 level 1 at tick 1978729243
+GPIO 26 level 0 at tick 1978729253
+GPIO 26 level 1 at tick 1978729263
+GPIO 26 level 0 at tick 1978729278
+GPIO 26 level 1 at tick 1978729283
+GPIO 26 level 0 at tick 1978729298
+GPIO 26 level 1 at tick 1978729308
+GPIO 26 level 0 at tick 1978729323
+GPIO 26 level 1 at tick 1978729328
+GPIO 26 level 0 at tick 1978729343
+GPIO 26 level 1 at tick 1978729353
+GPIO 26 level 0 at tick 1978729363
+GPIO 26 level 1 at tick 1978729373
+GPIO 26 level 0 at tick 1978729388
+GPIO 26 level 1 at tick 1978729398
+GPIO 26 level 0 at tick 1978729408
+GPIO 26 level 1 at tick 1978729418
+GPIO 26 level 0 at tick 1978729433
+GPIO 26 level 1 at tick 1978729443
+GPIO 26 level 0 at tick 1978729453
+GPIO 26 level 1 at tick 1978729463
+GPIO 26 level 0 at tick 1978729473
+GPIO 26 level 1 at tick 1978729483
+GPIO 26 level 0 at tick 1978729498
+GPIO 26 level 1 at tick 1978729508
+GPIO 26 level 0 at tick 1978729518
+GPIO 26 level 1 at tick 1978729528
+GPIO 26 level 0 at tick 1978729543
+GPIO 26 level 1 at tick 1978729553
+GPIO 26 level 0 at tick 1978729563
+GPIO 26 level 1 at tick 1978729573
+GPIO 26 level 0 at tick 1978729583
+GPIO 26 level 1 at tick 1978729593
+GPIO 26 level 0 at tick 1978729608
+GPIO 26 level 1 at tick 1978729618
+GPIO 26 level 0 at tick 1978729628
+GPIO 26 level 1 at tick 1978729638
+GPIO 26 level 0 at tick 1978729653
+GPIO 26 level 1 at tick 1978729663
+GPIO 26 level 0 at tick 1978729673
+GPIO 26 level 1 at tick 1978729683
+GPIO 26 level 0 at tick 1978729693
+GPIO 26 level 1 at tick 1978729703
+GPIO 26 level 0 at tick 1978729713
+GPIO 26 level 1 at tick 1978729728
+GPIO 26 level 0 at tick 1978729738
+GPIO 26 level 1 at tick 1978729748
+GPIO 26 level 0 at tick 1978729758
+GPIO 26 level 1 at tick 1978729773
+GPIO 26 level 0 at tick 1978729783
+GPIO 26 level 1 at tick 1978729793
+GPIO 26 level 0 at tick 1978729803
+GPIO 26 level 1 at tick 1978729813
+GPIO 26 level 0 at tick 1978729828
+GPIO 26 level 1 at tick 1978729838
+GPIO 26 level 0 at tick 1978729848
+GPIO 26 level 1 at tick 1978729858
+GPIO 26 level 0 at tick 1978729873
+GPIO 26 level 1 at tick 1978729883
+GPIO 26 level 0 at tick 1978729893
+GPIO 26 level 1 at tick 1978729903
+GPIO 26 level 0 at tick 1978729913
+GPIO 26 level 1 at tick 1978729923
+GPIO 26 level 0 at tick 1978729938
+GPIO 26 level 1 at tick 1978729948
+GPIO 26 level 0 at tick 1978729958
+GPIO 26 level 1 at tick 1978729968
+GPIO 26 level 0 at tick 1978729983
+GPIO 26 level 1 at tick 1978729993
+GPIO 26 level 0 at tick 1978730003
+GPIO 26 level 1 at tick 1978730013
+GPIO 26 level 0 at tick 1978730023
+GPIO 26 level 1 at tick 1978730033
+GPIO 26 level 0 at tick 1978730048
+GPIO 26 level 1 at tick 1978730058
+GPIO 26 level 0 at tick 1978730068
+GPIO 26 level 1 at tick 1978730078
+GPIO 26 level 0 at tick 1978730095
+GPIO 26 level 1 at tick 1978730100
+GPIO 26 level 0 at tick 1978730115
+GPIO 26 level 1 at tick 1978730125
+GPIO 26 level 0 at tick 1978730135
+GPIO 26 level 1 at tick 1978730145
+GPIO 26 level 0 at tick 1978730160
+GPIO 26 level 1 at tick 1978730170
+GPIO 26 level 0 at tick 1978730180
+GPIO 26 level 1 at tick 1978730190
+GPIO 26 level 0 at tick 1978730205
+GPIO 26 level 1 at tick 1978730208
+GPIO 26 level 0 at tick 1978730223
+GPIO 26 level 1 at tick 1978730233
+GPIO 26 level 0 at tick 1978730243
+GPIO 26 level 1 at tick 1978730253
+GPIO 26 level 0 at tick 1978730268
+GPIO 26 level 1 at tick 1978730278
+GPIO 26 level 0 at tick 1978730288
+GPIO 26 level 1 at tick 1978730298
+GPIO 26 level 0 at tick 1978730313
+GPIO 26 level 1 at tick 1978730323
+GPIO 26 level 0 at tick 1978730333
+GPIO 26 level 1 at tick 1978730343
+GPIO 26 level 0 at tick 1978730353
+GPIO 26 level 1 at tick 1978730363
+GPIO 26 level 0 at tick 1978730378
+GPIO 26 level 1 at tick 1978730388
+GPIO 26 level 0 at tick 1978730398
+GPIO 26 level 1 at tick 1978730408
+GPIO 26 level 0 at tick 1978730423
+GPIO 26 level 1 at tick 1978730433
+GPIO 26 level 0 at tick 1978730443
+GPIO 26 level 1 at tick 1978730453
+GPIO 26 level 0 at tick 1978730463
+GPIO 26 level 1 at tick 1978730473
+GPIO 26 level 0 at tick 1978730483
+GPIO 26 level 1 at tick 1978730498
+GPIO 26 level 0 at tick 1978730508
+GPIO 26 level 1 at tick 1978730518
+GPIO 26 level 0 at tick 1978730528
+GPIO 26 level 1 at tick 1978730543
+GPIO 26 level 0 at tick 1978730553
+GPIO 26 level 1 at tick 1978730563
+GPIO 26 level 0 at tick 1978730573
+GPIO 26 level 1 at tick 1978730583
+GPIO 26 level 0 at tick 1978730598
+GPIO 26 level 1 at tick 1978730608
+GPIO 26 level 0 at tick 1978730618
+GPIO 26 level 1 at tick 1978730628
+GPIO 26 level 0 at tick 1978730643
+GPIO 26 level 1 at tick 1978730653
+GPIO 26 level 0 at tick 1978730663
+GPIO 26 level 1 at tick 1978730673
+GPIO 26 level 0 at tick 1978730683
+GPIO 26 level 1 at tick 1978730693
+GPIO 26 level 0 at tick 1978730708
+GPIO 26 level 1 at tick 1978730718
+GPIO 26 level 0 at tick 1978730728
+GPIO 26 level 1 at tick 1978730738
+GPIO 26 level 0 at tick 1978730753
+GPIO 26 level 1 at tick 1978730763
+GPIO 26 level 0 at tick 1978730773
+GPIO 26 level 1 at tick 1978730783
+GPIO 26 level 0 at tick 1978730793
+GPIO 26 level 1 at tick 1978730803
+GPIO 26 level 0 at tick 1978730818
+GPIO 26 level 1 at tick 1978730828
+GPIO 26 level 0 at tick 1978730838
+GPIO 26 level 1 at tick 1978730848
+GPIO 26 level 0 at tick 1978730863
+GPIO 26 level 1 at tick 1978730868
+GPIO 26 level 0 at tick 1978730883
+GPIO 26 level 1 at tick 1978730893
+GPIO 26 level 0 at tick 1978730903
+GPIO 26 level 1 at tick 1978730913
+GPIO 26 level 0 at tick 1978730928
+GPIO 26 level 1 at tick 1978730938
+GPIO 26 level 0 at tick 1978730948
+GPIO 26 level 1 at tick 1978730959
+GPIO 26 level 0 at tick 1978730974
+GPIO 26 level 1 at tick 1978730984
+GPIO 26 level 0 at tick 1978730994
+GPIO 26 level 1 at tick 1978731004
+GPIO 26 level 0 at tick 1978731014
+GPIO 26 level 1 at tick 1978731024
+GPIO 26 level 0 at tick 1978731039
+GPIO 26 level 1 at tick 1978731049
+GPIO 26 level 0 at tick 1978731059
+GPIO 26 level 1 at tick 1978731069
+GPIO 26 level 0 at tick 1978731083
+GPIO 26 level 1 at tick 1978731093
+GPIO 26 level 0 at tick 1978731103
+GPIO 26 level 1 at tick 1978731113
+GPIO 26 level 0 at tick 1978731123
+GPIO 26 level 1 at tick 1978731133
+GPIO 26 level 0 at tick 1978731148
+GPIO 26 level 1 at tick 1978731158
+GPIO 26 level 0 at tick 1978731168
+GPIO 26 level 1 at tick 1978731178
+GPIO 26 level 0 at tick 1978731193
+GPIO 26 level 1 at tick 1978731203
+GPIO 26 level 0 at tick 1978731213
+GPIO 26 level 1 at tick 1978731223
+GPIO 26 level 0 at tick 1978731233
+GPIO 26 level 1 at tick 1978731243
+GPIO 26 level 0 at tick 1978731258
+GPIO 26 level 1 at tick 1978731268
+GPIO 26 level 0 at tick 1978731278
+GPIO 26 level 1 at tick 1978731288
+GPIO 26 level 0 at tick 1978731298
+GPIO 26 level 1 at tick 1978731313
+GPIO 26 level 0 at tick 1978731323
+GPIO 26 level 1 at tick 1978731333
+GPIO 26 level 0 at tick 1978731343
+GPIO 26 level 1 at tick 1978731353
+GPIO 26 level 0 at tick 1978731368
+GPIO 26 level 1 at tick 1978731378
+GPIO 26 level 0 at tick 1978731388
+GPIO 26 level 1 at tick 1978731398
+GPIO 26 level 0 at tick 1978731413
+GPIO 26 level 1 at tick 1978731418
+GPIO 26 level 0 at tick 1978731433
+GPIO 26 level 1 at tick 1978731443
+GPIO 26 level 0 at tick 1978731453
+GPIO 26 level 1 at tick 1978731463
+GPIO 26 level 0 at tick 1978731478
+GPIO 26 level 1 at tick 1978731488
+GPIO 26 level 0 at tick 1978731498
+GPIO 26 level 1 at tick 1978731508
+GPIO 26 level 0 at tick 1978731523
+GPIO 26 level 1 at tick 1978731528
+GPIO 26 level 0 at tick 1978731543
+GPIO 26 level 1 at tick 1978731553
+GPIO 26 level 0 at tick 1978731563
+GPIO 26 level 1 at tick 1978731573
+GPIO 26 level 0 at tick 1978731588
+GPIO 26 level 1 at tick 1978731598
+GPIO 26 level 0 at tick 1978731608
+GPIO 26 level 1 at tick 1978731618
+GPIO 26 level 0 at tick 1978731633
+GPIO 26 level 1 at tick 1978731643
+GPIO 26 level 0 at tick 1978731653
+GPIO 26 level 1 at tick 1978731663
+GPIO 26 level 0 at tick 1978731673
+GPIO 26 level 1 at tick 1978731683
+GPIO 26 level 0 at tick 1978731698
+GPIO 26 level 1 at tick 1978731708
+GPIO 26 level 0 at tick 1978731718
+GPIO 26 level 1 at tick 1978731728
+GPIO 26 level 0 at tick 1978731743
+GPIO 26 level 1 at tick 1978731753
+GPIO 26 level 0 at tick 1978731763
+GPIO 26 level 1 at tick 1978731773
+GPIO 26 level 0 at tick 1978731783
+GPIO 26 level 1 at tick 1978731793
+GPIO 26 level 0 at tick 1978731808
+GPIO 26 level 1 at tick 1978731818
+GPIO 26 level 0 at tick 1978731828
+GPIO 26 level 1 at tick 1978731838
+GPIO 26 level 0 at tick 1978731853
+GPIO 26 level 1 at tick 1978731863
+GPIO 26 level 0 at tick 1978731873
+GPIO 26 level 1 at tick 1978731883
+GPIO 26 level 0 at tick 1978731893
+GPIO 26 level 1 at tick 1978731903
+GPIO 26 level 0 at tick 1978731918
+GPIO 26 level 1 at tick 1978731928
+GPIO 26 level 0 at tick 1978731938
+GPIO 26 level 1 at tick 1978731948
+GPIO 26 level 0 at tick 1978731963
+GPIO 26 level 1 at tick 1978731973
+GPIO 26 level 0 at tick 1978731983
+GPIO 26 level 1 at tick 1978731993
+GPIO 26 level 0 at tick 1978732003
+GPIO 26 level 1 at tick 1978732013
+GPIO 26 level 0 at tick 1978732028
+GPIO 26 level 1 at tick 1978732038
+GPIO 26 level 0 at tick 1978732048
+GPIO 26 level 1 at tick 1978732058
+GPIO 26 level 0 at tick 1978732068
+GPIO 26 level 1 at tick 1978732085
+GPIO 26 level 0 at tick 1978732095
+GPIO 26 level 1 at tick 1978732105
+GPIO 26 level 0 at tick 1978732115
+GPIO 26 level 1 at tick 1978732125
+GPIO 26 level 0 at tick 1978732140
+GPIO 26 level 1 at tick 1978732145
+GPIO 26 level 0 at tick 1978732160
+GPIO 26 level 1 at tick 1978732170
+GPIO 26 level 0 at tick 1978732185
+GPIO 26 level 1 at tick 1978732190
+GPIO 26 level 0 at tick 1978732205
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+17 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+13 1 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+11 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+9 1 0
+15 2 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+12 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+8 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+16 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+9 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+17 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+3 0 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+11 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+14 1 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+17 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+8 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+6 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+9 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+12 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+8 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+11 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+9 1 1
+15 2 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+7 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+8 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+16 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+9 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+12 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+13 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+11 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+14 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+17 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+8 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+11 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+9 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+17 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+13 1 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+11 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+9 1 0
+20 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+17 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+3 0 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+11 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+14 1 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+15 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+10 1 0
+10 1 1
+10 1 0
+10 1 1
+17 2 0
+10 1 1
+10 1 0
+10 1 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+10 1 0
+15 2 1
+5 1 0
+15 2 1
+[0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1, 0, 1, 1]
