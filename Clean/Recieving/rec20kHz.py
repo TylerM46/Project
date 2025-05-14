@@ -5,13 +5,19 @@ pi = pigpio.pi()
 if not pi.connected:
     exit()
 
+#setting up arrays
 GPIO_PIN = 26  # Replace with your GPIO pin number
 timearray = []
 dataarray = []
 data = []
 
+
+
 # Set the GPIO pin as an input
 pi.set_mode(GPIO_PIN, pigpio.INPUT)
+
+
+
 
 # Define a callback function to read the GPIO pin
 def read_gpio(gpio, level, tick):
@@ -19,23 +25,40 @@ def read_gpio(gpio, level, tick):
     timearray.append(tick)
     dataarray.append(level)
 
+
+
+
 # Call the callback to read the GPIO pin at high speed
 cb = pi.callback(GPIO_PIN, pigpio.EITHER_EDGE, read_gpio)
 
-# Run for a specified duration
+
+
+
+#Sleep Time + Set timings values
 duration = 0.5  # seconds
-bitlength = 50    #every 0.1 seconds resync, 0.1/50μs = 2000 bits (might even do more resyncs),
-time.sleep(duration) #duration in seconds   #20khz is 50μs, μs seems to be unit of time array, T = 0.00005s
+bitlength = 50    #every 0.1 seconds resync, 0.1/50μs = 2000 bits (might even do more resyncs), 20khz is 50μs, μs seems to be unit of time array, T = 0.00005s
+time.sleep(duration) #duration in seconds   
 # Stop the callback and pigpio connection
 cb.cancel()
 pi.stop()
 
-for i in range(len(timearray)-1):       
+
+
+
+
+#Start time, Count number of bit lengths, work out curent remainder  
+#This Is Psuedo Sampling Every Bit interval 
+#Time is continuous line, you add onto remainder to as see how many new bits the time spans
+#take those reading points as the current value, leave the left over
+#test value for how large remainder
+
+
+for i in range(len(timearray)-1):       #!!POSSIBLY ADD OFF SET TO READING SO LESS NEAR CROSS ZONE!!
     if i==0:                            
-        timestart=timearray[0]          #work out time difference, sum it to remainder then allocate bits (same as sampling every....)
-        remainder=0                     #So the thinking is time is continuous line, you add onto remainder to as see how many new bits the time spans,   
-        resyncCounter = 0               #take those reading points as the current value, leave the left over
-        resynctrigger =0                #test value for how large remainder
+        timestart=timearray[0]          
+        remainder=0                        
+        resyncCounter = 0               
+        resynctrigger =0                
 
     #calculate time lengths    
     itime = timearray[i+1] - timearray[i]  #length of this mode (0,1)
