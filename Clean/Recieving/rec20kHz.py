@@ -77,4 +77,4 @@ for i in range(len(timearray)-1):
 result = ''.join(map(str,data))
 print(result)    
 
-
+#implement 10 reduction
