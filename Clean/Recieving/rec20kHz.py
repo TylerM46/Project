@@ -29,19 +29,38 @@ time.sleep(duration)
 cb.cancel()
 pi.stop()
 
+for i in range(len(timearray)-1):       #20khz is 50μs, μs seems to be unit of time array, T = 0.00005s
+    if i==0:                            #every 0.1 seconds resync, 0.1/50μs = 2000 bits (might even do more resyncs), Lets do 1000T = 0.05s or 50*1000=50,000μs
+        timestart=timearray[0]          #work out time difference, sum it to remainder then allocate bits (same as sampling every....)
+        remainder=0                     #So the thinking is time is continuous line, you add onto remainder to as see how many new bits the time spans,   
+        resyncCounter = 0               #take those reading points as the current value, leave the left over
 
-
-for i in range(len(timearray)-1):
+    #calculate time length (length of that mode )    
     itime = timearray[i+1] - timearray[i]
-    inumber = (itime+25)//50
-    print(itime, inumber, dataarray[i])
-    if(15>inumber>25):
-        print("here")
-    for p in range(inumber): #bitflipping
-        if (dataarray[i] == 1):
-            data.append(0)
-        else:
-            data.append(1)
+    totaltime = itime + remainder
+    resyncCounter += itime 
+    for 
+        
+
+    #if (dataarray[i] == 1):    
+        
+    if(resyncCounter > 50000):#check resync
+        if (remainder> 15):
+            #add bit perhaps?
+
+
+
+#for i in range(len(timearray)-1):
+#    itime = timearray[i+1] - timearray[i]    #works out time difference between bit switching 
+#    inumber = (itime+25)//50                 #divides the length by bit length  
+#    print(itime, inumber, dataarray[i])      #prints time difference, correponding bit length, 1 or 0? 
+#    if(15>inumber>25):                       #
+#        print("here")
+#    for p in range(inumber): #bitflipping
+#        if (dataarray[i] == 1):
+#            data.append(0)
+#        else:
+#            data.append(1)
             
 result = ''.join(map(str,data))
 print(result)    
