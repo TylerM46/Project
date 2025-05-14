@@ -9,6 +9,7 @@ GPIO_PIN = 26  # Replace with your GPIO pin number
 timearray = []
 dataarray = []
 data = []
+
 # Set the GPIO pin as an input
 pi.set_mode(GPIO_PIN, pigpio.INPUT)
 
@@ -36,20 +37,27 @@ for i in range(len(timearray)-1):
         resyncCounter = 0               #take those reading points as the current value, leave the left over
         resynctrigger =0                #test value for how large remainder
 
-    #calculate time length (length of that mode )    
+    #calculate time lengths    
     itime = timearray[i+1] - timearray[i]  #length of this mode (0,1)
     totaltime = itime + remainder          #time passed since last reading
     
-    bitCoverage = totaltime // bitlength
-        
+    #bit length and appending to data array
+    bitCoverage = totaltime // bitlength   #number of bits of current mode    
+    for b in range(bitCoverage):
+        if (dataarray[i] == 1): #inversion in system
+            data.append(0)      #add corresponding number of 0s 
+        else:
+            data.append(1)      #add corresponding number of 1s
 
-    #if (dataarray[i] == 1): 
+
+
     #check resync   
     resyncCounter += itime        #add current length      
     if(resyncCounter > bitlength*1000):    #after 1000 bits resync the to tick change time (might make more frequent)  
         if (remainder> 14):                #Lets do 1000T = 0.05s or 50*1000=50,000μs
             #add bit perhaps?
-            resynctrigger = 
+            resynctrigger += 1
+        remainder = 0                       #same as setting T start to current swtich    
 
 
 
@@ -68,3 +76,5 @@ for i in range(len(timearray)-1):
             
 result = ''.join(map(str,data))
 print(result)    
+
+
