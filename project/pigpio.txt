@@ -1,0 +1,47 @@
+[Unit]
+Description=Daemon required to control GPIO pins via pigpio
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/pigpiod
+ExecStop=/bin/systemctl kill -s SIGKILL pigpiod
+Type=forking
+
+[Install]
+WantedBy=multi-user.target
+
+× pigpiod.service - Daemon required to control GPIO pins via pigpio
+     Loaded: loaded (/etc/systemd/system/pigpiod.service; enabled; preset: enabled)
+     Active: failed (Result: exit-code) since Mon 2025-03-03 21:08:05 GMT; 15s ago
+   Duration: 3ms
+    Process: 3583 ExecStart=/usr/bin/pigpiod (code=exited, status=0/SUCCESS)
+   Main PID: 3584 (code=exited, status=1/FAILURE)
+        CPU: 4ms
+
+
+
+yler@raspberrypi:~/Documents/project/c $ journalctl -u pigpiod
+Feb 27 08:57:39 raspberrypi systemd[1]: Starting pigpiod.service - Daemon required to control GPIO pins vi>
+Feb 27 08:57:39 raspberrypi pigpiod[1719]: 2025-02-27 08:57:39 initInitialise: Can't lock /var/run/pigpio.>
+Feb 27 08:57:39 raspberrypi pigpiod[1719]: Can't initialise pigpio library
+Feb 27 08:57:39 raspberrypi systemd[1]: Started pigpiod.service - Daemon required to control GPIO pins via>
+Feb 27 08:57:39 raspberrypi systemd[1]: pigpiod.service: Main process exited, code=exited, status=1/FAILURE
+Feb 27 08:57:39 raspberrypi systemd[1]: pigpiod.service: Failed with result 'exit-code'.
+-- Boot 287a3a4e849c493fa22fa5737cc71e91 --
+Feb 27 09:02:35 raspberrypi systemd[1]: Starting pigpiod.service - Daemon required to control GPIO pins vi>
+Feb 27 09:02:35 raspberrypi systemd[1]: Started pigpiod.service - Daemon required to control GPIO pins via>
+Feb 27 09:06:25 raspberrypi systemd[1]: pigpiod.service: Sent signal SIGTERM to control process 1389 (syst>
+Feb 27 09:06:25 raspberrypi systemd[1]: pigpiod.service: Control process exited, code=killed, status=15/TE>
+Feb 27 09:06:25 raspberrypi systemd[1]: pigpiod.service: Failed with result 'signal'.
+Feb 27 09:06:25 raspberrypi systemd[1]: pigpiod.service: Consumed 12.536s CPU time.
+Feb 27 09:06:53 raspberrypi systemd[1]: Starting pigpiod.service - Daemon required to control GPIO pins vi>
+Feb 27 09:06:53 raspberrypi systemd[1]: Started pigpiod.service - Daemon required to control GPIO pins via>
+Feb 27 09:09:00 raspberrypi systemd[1]: pigpiod.service: Sent signal SIGTERM to control process 1452 (syst>
+Feb 27 09:09:00 raspberrypi systemd[1]: pigpiod.service: Control process exited, code=killed, status=15/TE>
+Feb 27 09:09:00 raspberrypi systemd[1]: pigpiod.service: Failed with result 'signal'.
+Feb 27 09:09:00 raspberrypi systemd[1]: pigpiod.service: Consumed 7.632s CPU time.
+Feb 27 09:13:41 raspberrypi systemd[1]: Starting pigpiod.service - Daemon required to control GPIO pins vi>
+Feb 27 09:13:41 raspberrypi systemd[1]: Started pigpiod.service - Daemon required to control GPIO pins via>
+Feb 27 09:18:21 raspberrypi systemd[1]: Stopping pigpiod.service - Daemon required to control GPIO pins vi>
+Feb 27 09:18:21 raspberrypi systemd[1]: pigpiod.service: Sent signal SIGTERM to control process 1645 (syst>
+lines 1-23

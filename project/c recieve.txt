@@ -1,0 +1,27 @@
+#include <wiringPi.h>
+#include <stdio.h>
+
+#define PIN 0  // GPIO pin number
+
+volatile int data = 0;
+
+void interruptHandler(void) {
+    data = digitalRead(PIN);
+    // Process the data as needed
+}
+
+int main(void) {
+    if (wiringPiSetup() == -1) {
+        printf("Setup failed!\n");
+        return 1;
+    }
+
+    pinMode(PIN, INPUT);
+    wiringPiISR(PIN, INT_EDGE_BOTH, &interruptHandler);
+
+    while (1) {
+        // Main loop can perform other tasks
+    }
+
+    return 0;
+}

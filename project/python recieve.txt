@@ -1,0 +1,23 @@
+pi = pigpio.pi()
+if not pi.connected:
+    exit()
+
+GPIO_PIN = 4  # Replace with your GPIO pin number
+
+# Set the GPIO pin as an input
+pi.set_mode(GPIO_PIN, pigpio.INPUT)
+
+# Define a callback function to read the GPIO pin
+def read_gpio(gpio, level, tick):
+    print(f"GPIO {gpio} level {level} at tick {tick}")
+
+# Set up the callback to read the GPIO pin at high speed
+cb = pi.callback(GPIO_PIN, pigpio.EITHER_EDGE, read_gpio)
+
+# Run for a specified duration
+duration = 1  # seconds
+time.sleep(duration)
+
+# Stop the callback and pigpio connection
+cb.cancel()
+pi.stop()

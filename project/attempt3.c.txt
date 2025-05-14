@@ -1,0 +1,46 @@
+#define STB_IMAGE_IMPLEMENTATION
+#include "stb_image.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+void convert_jpg_to_binary_string(const char *filename, char **binary_string, int *size) {
+    int width, height, channels;
+    unsigned char *img = stbi_load(filename, &width, &height, &channels, 0);
+    if (img == NULL) {
+        fprintf(stderr, "Error loading image %s\n", filename);
+        exit(1);
+    }
+
+    *size = width * height * channels * 8; // Each pixel value will be converted to 8 bits
+    *binary_string = (char *)malloc(*size + 1); // +1 for the null terminator
+
+    int index = 0;
+    for (int i = 0; i < width * height * channels; i++) {
+        for (int bit = 7; bit >= 0; bit--) {
+            (*binary_string)[index++] = (img[i] & (1 << bit)) ? '1' : '0';
+            if (bit > 0) {
+                (*binary_string)[index++] = ',';
+            }
+        }
+        if (i < width * height * channels - 1) {
+            (*binary_string)[index++] = ',';
+        }
+    }
+    (*binary_string)[index] = '\0';
+
+    stbi_image_free(img);
+}
+
+int main() {
+    const char *filename = "image.jpg";
+    char *binary_string;
+    int size;
+
+    convert_jpg_to_binary_string(filename, &binary_string, &size);
+
+    // Print the binary string
+    printf("%s\n", binary_string);
+
+    free(binary_string);
+    return 0;
+}

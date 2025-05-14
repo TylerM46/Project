@@ -1,0 +1,24 @@
+import numpy as np
+from PIL import Image
+
+def binary_to_image(binary_string, width, height, channels):
+    # Convert binary string to byte array
+    byte_array = bytearray()
+    for i in range(0, len(binary_string), 3):
+        byte = binary_string[i:i+3]
+        byte_array.append(int(byte, 2) * 32)  # Scale back to original color range
+
+    # Convert byte array to numpy array
+    img_array = np.array(byte_array, dtype=np.uint8).reshape((height, width, channels))
+
+    # Create and save image
+    img = Image.fromarray(img_array, mode='RGB')
+    img.save('8bitreborn.jpg')
+
+# Example usage
+binary_string = ""
+width = 91  # Replace with actual width
+height = 91  # Replace with actual height
+channels = 3  # RGB
+
+binary_to_image(binary_string, width, height, channels)
