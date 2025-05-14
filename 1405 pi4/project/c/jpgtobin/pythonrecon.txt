@@ -1,0 +1,18 @@
+import numpy as np
+from PIL import Image
+
+# Example binary array (replace with your actual binary array)
+binary_array = [1, 0, 1, 0, 1, 0, 1, 0, ...]  # Add your binary data here
+width, height, channels = 100, 100, 3  # Replace with actual dimensions and channels
+
+# Convert binary array to numpy array
+binary_array = np.array(binary_array, dtype=np.uint8)
+binary_array = binary_array.reshape((height, width, channels))
+
+# Convert binary values back to 0-255 range
+image_data = binary_array * 255
+
+# Create and save the image
+image = Image.fromarray(image_data, 'RGB')
+image.save('reconstructed_image.jpg')
+image.show()
