@@ -103,3 +103,34 @@ print(readdata)
 
 #implement 10 reduction
 
+
+#extraction of data:
+def extractdata(binary_string, pattern):
+    positions = []   #array of instance positions 
+    start = 0
+
+    # Find all start positions of the pattern
+    while True:
+        idx = binary_string.find(pattern, start)
+        if idx == -1:
+            break
+        positions.append(idx)
+        start = idx + 1  # allow overlapping
+
+    # Extract sequences between each pair of occurrences
+    results = []
+    for i in range(len(positions) - 1):
+        start_idx = positions[i] + len(pattern)
+        end_idx = positions[i + 1]
+        results.append(binary_string[start_idx:end_idx])
+
+    return results
+
+# Example usage
+pattern = "10101"
+segments = extractdata(readdata, pattern)
+
+print(segments)
+
+
+
