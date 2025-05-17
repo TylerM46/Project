@@ -26,3 +26,6 @@ pattern = "10101010101010101010"
 segments = extractdata(readdata, pattern)
 
 print(segments,len(segments[0]))
+
+#for i in segments:
+#    if i 
