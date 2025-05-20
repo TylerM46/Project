@@ -157,12 +157,22 @@ def flip_every_5th_bit(binary_str):
 pattern = "110010101010101010101100"
 segments = extractdata(readdata, pattern)
 
+#Checks if data found
+if not segments:
+    raise ValueError("No data segments found — check signal or pattern.")
+
 #print(segments,len(segments[0]))
 sent = flip_every_5th_bit(segments[0])
 
 width = 25 # Replace with actual width
 height = 25  # Replace with actual height
 channels = 3  # RGB
+
+#checks data length
+expected_length = width * height * channels * 3
+if len(sent) != expected_length:
+    raise ValueError(f"Incorrect bit length. Got {len(sent)} bits, expected {expected_length}.")
+
 
 binary_to_image(sent, width, height, channels)
 
