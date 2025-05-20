@@ -20,11 +20,6 @@ def binary_to_image(binary_string, width, height, channels):
     img.save('./alive.jpg')
     print("made it")
 
-
-
-
-
-
 def extractdata(binary_string, pattern):
     positions = []   #array of instance positions 
     start = 0
