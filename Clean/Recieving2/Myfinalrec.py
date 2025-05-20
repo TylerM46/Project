@@ -67,19 +67,17 @@ for i in range(len(timearray)-1):       #!!POSSIBLY ADD OFF SET TO READING SO LE
     #bit length and appending to data array
     bitCoverage = totaltime // bitlength   #number of bits of current mode    
     for b in range(bitCoverage):
-        if (dataarray[i] == 1): #inversion in system
-            data.append(0)      #add corresponding number of 0s 
-        else:
-            data.append(1)      #add corresponding number of 1s
+        data.append(abs(dataarray[i]-1)
+            
 
     remainder = totaltime - bitCoverage*bitlength #update remainder
 
 
     #check resync   
     resyncCounter += itime        #add current length      
-    if(resyncCounter > bitlength*1000):    #after 1000 bits resync the to tick change time (might make more frequent)  
-        if (remainder> 14):                #Lets do 1000T = 0.05s or 50*1000=50,000μs
-            #add bit perhaps?
+    if(resyncCounter > bitlength*100):    #after 100 bits resync the to tick change time (might make more frequent)  
+        if (remainder> 14):                #Lets do 100T = 0.005s or 50*100=5000μs
+            data.append(abs(dataarray[i]-1)      #add corresponding number of bits
             resynctrigger += 1
         remainder = 0                       #same as setting T start to current swtich    
 
