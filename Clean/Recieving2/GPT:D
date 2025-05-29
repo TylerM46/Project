@@ -12,8 +12,20 @@ CAPTURE_TIME  = 0.5     # seconds to record edges
 
 # PLL (bit recovery)
 BIT_LENGTH_US = 50      # nominal bit duration in μs
-PGAIN         = 0.1     # proportional gain (tune to channel jitter)
-IGAIN         = 0.01    # integral gain (tune to drift over time)
+
+#SCALE THESE PROPORTIONALLY TO FREQUENCY
+
+# Proportional gain: ~10–30% of bit length
+#   • Higher P means faster response to a single bad bit,
+#   • But too high → overshoot and oscillation on a noisy channel.
+PGAIN = 0.15  # try 0.1–0.2
+
+# Integral gain: ~1–5% of P gain
+#   • Slowly accumulates any steady bias (clock skew, temp drift),
+#   • But too high → wind-up and slow oscillation.
+IGAIN = 0.005  # try 0.002–0.01
+
+
 
 # Header patterns and matching
 PILOT_PATTERN = "110010101010101010101100"  # long initial sync
