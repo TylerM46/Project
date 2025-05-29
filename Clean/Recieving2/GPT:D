@@ -1,0 +1,188 @@
+import pigpio
+import time
+import numpy as np
+from PIL import Image
+import difflib  # For approximate pattern matching
+
+pi = pigpio.pi()
+if not pi.connected:
+    exit()
+
+# GPIO setup
+GPIO_PIN = 26  # Replace with your GPIO pin number
+
+edgeTimes = []
+BitArray = []
+
+# Set the GPIO pin as input
+pi.set_mode(GPIO_PIN, pigpio.INPUT)
+
+# Callback to record edges with timestamps and levels
+def read_gpio(gpio, level, tick):
+    edgeTimes.append(tick)
+    BitArray.append(level)
+
+cb = pi.callback(GPIO_PIN, pigpio.EITHER_EDGE, read_gpio)
+
+# Timing parameters
+bitlength = 50  # μs per bit (nominal)
+
+# Capture duration (seconds)
+duration = 0.5
+time.sleep(duration)
+
+cb.cancel()
+pi.stop()
+
+# PLL decoder: converts edges to bitstream with timing correction
+def pll_decode(edgeTimes, BitArray, nominal_bitlength):
+    data_bits = []
+    remainder = 0.0
+    Kp = 0.1
+    Ki = 0.01
+    integral = 0.0
+
+    # Process all edges with phase tracking
+    i = 0
+    length = len(edgeTimes)
+    while i < length - 1:
+        interval = (edgeTimes[i+1] - edgeTimes[i]) + remainder
+        bits_covered = interval / nominal_bitlength
+        int_bits = int(bits_covered)
+        remainder = interval - int_bits * nominal_bitlength
+
+        # Append bits with inverted logic as per your original scheme
+        for _ in range(int_bits):
+            data_bits.append(abs(BitArray[i] - 1))
+
+        if int_bits > 0:
+            measured_bitlength = interval / int_bits
+            error = measured_bitlength - nominal_bitlength
+
+            integral += error
+            phase_correction = Kp * error + Ki * integral
+            remainder -= phase_correction
+
+        i += 1
+
+    return data_bits
+
+data = pll_decode(edgeTimes, BitArray, bitlength)
+readdata = ''.join(map(str, data))
+
+print(f"Decoded total bits: {len(readdata)}")
+
+# ---------- Header detection with fuzzy matching ----------
+
+def fuzzy_find_all(haystack, needle, threshold=0.8):
+    """
+    Find all approximate matches of needle in haystack using difflib.SequenceMatcher.
+    Returns list of starting indices where similarity >= threshold.
+    """
+    matches = []
+    n_len = len(needle)
+    for i in range(len(haystack) - n_len + 1):
+        window = haystack[i:i+n_len]
+        ratio = difflib.SequenceMatcher(None, window, needle).ratio()
+        if ratio >= threshold:
+            matches.append(i)
+    return matches
+
+# Packet header patterns
+pilot_pattern = "110010101010101010101100"  # Longer initial pilot for coarse sync
+packet_header = "1010101100"  # Shorter header used repeatedly for packets
+
+# Find pilot position approx (start sync)
+pilot_positions = fuzzy_find_all(readdata, pilot_pattern, threshold=0.85)
+if not pilot_positions:
+    raise ValueError("Pilot pattern not found in received data - sync failure.")
+pilot_pos = pilot_positions[0]
+print(f"Pilot approx found at bit index: {pilot_pos}")
+
+# Find all packet headers approx after pilot to segment stream
+packet_positions = fuzzy_find_all(readdata[pilot_pos:], packet_header, threshold=0.85)
+packet_positions = [pilot_pos + pos for pos in packet_positions]
+
+if len(packet_positions) < 2:
+    raise ValueError("Insufficient packet headers found for segmentation.")
+
+print(f"Found {len(packet_positions)} packet headers.")
+
+# ---------- Extract packets between headers ----------
+
+packets = []
+for i in range(len(packet_positions) - 1):
+    start = packet_positions[i] + len(packet_header)
+    end = packet_positions[i+1]
+    packets.append(readdata[start:end])
+
+# Last packet from last header to end of stream (optional)
+last_start = packet_positions[-1] + len(packet_header)
+packets.append(readdata[last_start:])
+
+print(f"Extracted {len(packets)} packets.")
+
+# ---------- Checksum & length verification ----------
+
+def packet_checksum(packet_bits):
+    """
+    Simple checksum: count number of '1' bits mod 256
+    """
+    return sum(int(b) for b in packet_bits) % 256
+
+def verify_and_fix_packet(packet_bits, expected_length):
+    """
+    Verify packet length, pad with zeros or truncate as needed.
+    Also checks checksum embedded in last 8 bits of packet.
+    Packet structure assumed: [data bits][8-bit checksum]
+    """
+    if len(packet_bits) < expected_length:
+        # Too short, pad zeros at end
+        packet_bits += '0' * (expected_length - len(packet_bits))
+        print(f"Padded packet from {len(packet_bits)} to {expected_length} bits.")
+    elif len(packet_bits) > expected_length:
+        # Too long, truncate
+        packet_bits = packet_bits[:expected_length]
+        print(f"Truncated packet from {len(packet_bits)} to {expected_length} bits.")
+
+    data_part = packet_bits[:-8]
+    checksum_part = packet_bits[-8:]
+    calc_checksum = packet_checksum(data_part)
+    received_checksum = int(checksum_part, 2)
+
+    if calc_checksum != received_checksum:
+        print(f"Checksum mismatch: calculated {calc_checksum} vs received {received_checksum}. Packet data may be corrupted.")
+
+    return packet_bits
+
+# Expected packet data size and checksum bits
+width = 25
+height = 25
+channels = 3
+bits_per_channel = 3  # 3 bits per R, G, B channel
+bits_per_pixel = channels * bits_per_channel  # 9 bits
+pixels_per_packet = 50  # Define how many pixels per packet for example
+packet_data_bits = pixels_per_packet * bits_per_pixel
+checksum_bits = 8
+expected_packet_length = packet_data_bits + checksum_bits
+
+# ---------- Process packets: verify, correct length, flip bits ----------
+
+corrected_data_bits = ""
+
+for idx, pkt in enumerate(packets):
+    print(f"\nProcessing packet {idx+1} / {len(packets)}")
+    pkt_fixed = verify_and_fix_packet(pkt, expected_packet_length)
+    pkt_corrected = list(pkt_fixed)
+
+    # Flip every 5th bit for error correction (index 4, 9, 14, ...)
+    for i in range(4, len(pkt_corrected), 5):
+        pkt_corrected[i] = '0' if pkt_corrected[i] == '1' else '1'
+
+    corrected_data_bits += "".join(pkt_corrected[:-8])  # exclude checksum bits
+
+print(f"\nTotal corrected bits length: {len(corrected_data_bits)}")
+
+# ---------- Image reconstruction ----------
+
+def binary_to_image(binary_string, width, height_
