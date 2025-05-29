@@ -2,187 +2,194 @@ import pigpio
 import time
 import numpy as np
 from PIL import Image
-import difflib  # For approximate pattern matching
+from difflib import SequenceMatcher
+
+# ─── Tunable Parameters ────────────────────────────────────────────────────────
+
+# GPIO capture
+GPIO_PIN      = 26      # Pi GPIO pin for optical input
+CAPTURE_TIME  = 0.5     # seconds to record edges
+
+# PLL (bit recovery)
+BIT_LENGTH_US = 50      # nominal bit duration in μs
+PGAIN         = 0.1     # proportional gain (tune to channel jitter)
+IGAIN         = 0.01    # integral gain (tune to drift over time)
+
+# Header patterns and matching
+PILOT_PATTERN = "110010101010101010101100"  # long initial sync
+PACKET_HEADER = "1010101100"                # short, repeated header
+HEADER_THRESH = 0.85    # ≥85% match needed for pilot; warnings only for packets
+WINDOW_RADIUS = BIT_LENGTH_US  # ±1 bit-length (~50 μs) around expected header
+
+# Image & packet layout
+WIDTH, HEIGHT, CHANNELS    = 25, 25, 3
+BITS_PER_CHANNEL           = 3
+BITS_PER_PIXEL             = CHANNELS * BITS_PER_CHANNEL  # = 9 bits per pixel
+PIXELS_PER_PACKET          = 50
+PACKET_DATA_BITS           = PIXELS_PER_PACKET * BITS_PER_PIXEL  # = 50×9 = 450 bits
+CHECKSUM_BITS              = 8
+EXPECTED_PACKET_LENGTH     = PACKET_DATA_BITS + CHECKSUM_BITS   # = 458 bits
+TOTAL_IMAGE_BITS           = WIDTH * HEIGHT * BITS_PER_PIXEL    # 25×25×9 = 5625 bits
+
+# ─── NOTE on Checksum Overhead ────────────────────────────────────────────────
+# Current config: 25×25 image = 625 pixels total.
+# Each packet carries 50 pixels = 450 data bits.
+# Adding 8 checksum bits is only ~8/450 ≈ 1.8% overhead—insignificant for throughput.
+
+# ─── 1) Capture edges & levels ─────────────────────────────────────────────────
 
 pi = pigpio.pi()
 if not pi.connected:
     exit()
-
-# GPIO setup
-GPIO_PIN = 26  # Replace with your GPIO pin number
-
-edgeTimes = []
-BitArray = []
-
-# Set the GPIO pin as input
 pi.set_mode(GPIO_PIN, pigpio.INPUT)
 
-# Callback to record edges with timestamps and levels
+edgeTimes = []
+BitArray   = []
 def read_gpio(gpio, level, tick):
     edgeTimes.append(tick)
     BitArray.append(level)
 
 cb = pi.callback(GPIO_PIN, pigpio.EITHER_EDGE, read_gpio)
-
-# Timing parameters
-bitlength = 50  # μs per bit (nominal)
-
-# Capture duration (seconds)
-duration = 0.5
-time.sleep(duration)
-
+time.sleep(CAPTURE_TIME)
 cb.cancel()
 pi.stop()
 
-# PLL decoder: converts edges to bitstream with timing correction
-def pll_decode(edgeTimes, BitArray, nominal_bitlength):
-    data_bits = []
-    remainder = 0.0
-    Kp = 0.1
-    Ki = 0.01
+# ─── 2) PLL Decoder ─────────────────────────────────────────────────────────────
+
+def pll_decode(times, levels, bitlen_us):
+    bits, remainder = [], 0.0
     integral = 0.0
-
-    # Process all edges with phase tracking
     i = 0
-    length = len(edgeTimes)
-    while i < length - 1:
-        interval = (edgeTimes[i+1] - edgeTimes[i]) + remainder
-        bits_covered = interval / nominal_bitlength
-        int_bits = int(bits_covered)
-        remainder = interval - int_bits * nominal_bitlength
+    while i < len(times) - 1:
+        interval = (times[i+1] - times[i]) + remainder
+        covered  = interval / bitlen_us
+        count    = int(covered)
+        remainder = interval - count * bitlen_us
 
-        # Append bits with inverted logic as per your original scheme
-        for _ in range(int_bits):
-            data_bits.append(abs(BitArray[i] - 1))
+        # Append 'count' bits at current level (inverted logic)
+        for _ in range(count):
+            bits.append(abs(levels[i] - 1))
 
-        if int_bits > 0:
-            measured_bitlength = interval / int_bits
-            error = measured_bitlength - nominal_bitlength
-
-            integral += error
-            phase_correction = Kp * error + Ki * integral
-            remainder -= phase_correction
+        if count > 0:
+            measured   = interval / count
+            error      = measured - bitlen_us
+            integral  += error
+            correction = PGAIN * error + IGAIN * integral
+            remainder -= correction  # adjust for next interval
 
         i += 1
 
-    return data_bits
+    return bits
 
-data = pll_decode(edgeTimes, BitArray, bitlength)
-readdata = ''.join(map(str, data))
+bitData   = pll_decode(edgeTimes, BitArray, BIT_LENGTH_US)
+bitString = ''.join(map(str, bitData))
+print(f"Decoded bitstream length: {len(bitString)} bits")
 
-print(f"Decoded total bits: {len(readdata)}")
+# ─── 3) Checksum & Length Fix ──────────────────────────────────────────────────
 
-# ---------- Header detection with fuzzy matching ----------
+def packet_checksum(data_bits):
+    return sum(int(b) for b in data_bits) % 256
 
-def fuzzy_find_all(haystack, needle, threshold=0.8):
-    """
-    Find all approximate matches of needle in haystack using difflib.SequenceMatcher.
-    Returns list of starting indices where similarity >= threshold.
-    """
-    matches = []
-    n_len = len(needle)
-    for i in range(len(haystack) - n_len + 1):
-        window = haystack[i:i+n_len]
-        ratio = difflib.SequenceMatcher(None, window, needle).ratio()
-        if ratio >= threshold:
-            matches.append(i)
-    return matches
+def verify_and_fix(bits):
+    # Pad with last bit if too short, truncate if too long
+    if len(bits) < EXPECTED_PACKET_LENGTH:
+        pad = bits[-1] if bits else '0'
+        bits += pad * (EXPECTED_PACKET_LENGTH - len(bits))
+        print(f"  Padded to {EXPECTED_PACKET_LENGTH} bits using '{pad}'")
+    elif len(bits) > EXPECTED_PACKET_LENGTH:
+        bits = bits[:EXPECTED_PACKET_LENGTH]
+        print(f"  Truncated to {EXPECTED_PACKET_LENGTH} bits")
+    # Validate checksum (last 8 bits)
+    data_part = bits[:-CHECKSUM_BITS]
+    chk_part  = bits[-CHECKSUM_BITS:]
+    if packet_checksum(data_part) != int(chk_part, 2):
+        print("  [!] Checksum mismatch")
+    return bits
 
-# Packet header patterns
-pilot_pattern = "110010101010101010101100"  # Longer initial pilot for coarse sync
-packet_header = "1010101100"  # Shorter header used repeatedly for packets
+# ─── 4) Header Extraction ──────────────────────────────────────────────────────
 
-# Find pilot position approx (start sync)
-pilot_positions = fuzzy_find_all(readdata, pilot_pattern, threshold=0.85)
-if not pilot_positions:
-    raise ValueError("Pilot pattern not found in received data - sync failure.")
-pilot_pos = pilot_positions[0]
-print(f"Pilot approx found at bit index: {pilot_pos}")
+def find_initial_pilot(stream):
+    L = len(PILOT_PATTERN)
+    for i in range(len(stream) - L + 1):
+        if SequenceMatcher(None, stream[i:i+L], PILOT_PATTERN).ratio() >= HEADER_THRESH:
+            return i
+    raise RuntimeError("Pilot not found — cannot sync")
 
-# Find all packet headers approx after pilot to segment stream
-packet_positions = fuzzy_find_all(readdata[pilot_pos:], packet_header, threshold=0.85)
-packet_positions = [pilot_pos + pos for pos in packet_positions]
+def extract_packets(stream):
+    # 4.1 Global sync with pilot
+    pilot_idx = find_initial_pilot(stream)
+    print(f"Pilot found at bit index: {pilot_idx}")
+    curr_hdr = pilot_idx
+    packets  = []
+    pkt_total_len = len(PACKET_HEADER) + PACKET_DATA_BITS + CHECKSUM_BITS
 
-if len(packet_positions) < 2:
-    raise ValueError("Insufficient packet headers found for segmentation.")
+    # 4.2 Windowed packet-header search
+    while True:
+        expected = curr_hdr + pkt_total_len
+        if expected + len(PACKET_HEADER) > len(stream):
+            break
 
-print(f"Found {len(packet_positions)} packet headers.")
+        start = max(expected - WINDOW_RADIUS, 0)
+        end   = min(expected + WINDOW_RADIUS, len(stream) - len(PACKET_HEADER))
+        best_ratio, best_idx = 0.0, None
 
-# ---------- Extract packets between headers ----------
+        for j in range(start, end + 1):
+            ratio = SequenceMatcher(None,
+                                    stream[j:j+len(PACKET_HEADER)],
+                                    PACKET_HEADER).ratio()
+            if ratio > best_ratio:
+                best_ratio, best_idx = ratio, j
 
-packets = []
-for i in range(len(packet_positions) - 1):
-    start = packet_positions[i] + len(packet_header)
-    end = packet_positions[i+1]
-    packets.append(readdata[start:end])
+        # Warn if header heavily corrupted, but still proceed
+        if best_ratio < HEADER_THRESH:
+            print(f"  [!] Header below threshold ({best_ratio:.2f}); guessing at {best_idx}")
 
-# Last packet from last header to end of stream (optional)
-last_start = packet_positions[-1] + len(packet_header)
-packets.append(readdata[last_start:])
+        # Extract packet bits between headers
+        data_start = curr_hdr + len(PACKET_HEADER)
+        packets.append(stream[data_start:best_idx])
+        curr_hdr = best_idx
 
-print(f"Extracted {len(packets)} packets.")
+    # 4.3 Handle final packet remainder
+    last_start = curr_hdr + len(PACKET_HEADER)
+    if last_start < len(stream):
+        packets.append(stream[last_start:])
 
-# ---------- Checksum & length verification ----------
+    return packets
 
-def packet_checksum(packet_bits):
-    """
-    Simple checksum: count number of '1' bits mod 256
-    """
-    return sum(int(b) for b in packet_bits) % 256
+packets = extract_packets(bitString)
+print(f"Extracted {len(packets)} packets")
 
-def verify_and_fix_packet(packet_bits, expected_length):
-    """
-    Verify packet length, pad with zeros or truncate as needed.
-    Also checks checksum embedded in last 8 bits of packet.
-    Packet structure assumed: [data bits][8-bit checksum]
-    """
-    if len(packet_bits) < expected_length:
-        # Too short, pad zeros at end
-        packet_bits += '0' * (expected_length - len(packet_bits))
-        print(f"Padded packet from {len(packet_bits)} to {expected_length} bits.")
-    elif len(packet_bits) > expected_length:
-        # Too long, truncate
-        packet_bits = packet_bits[:expected_length]
-        print(f"Truncated packet from {len(packet_bits)} to {expected_length} bits.")
+# ─── 5) Packet Correction & 5th-Bit Flip ─────────────────────────────────────────
 
-    data_part = packet_bits[:-8]
-    checksum_part = packet_bits[-8:]
-    calc_checksum = packet_checksum(data_part)
-    received_checksum = int(checksum_part, 2)
+corrected_bits = ""
+for idx, pkt in enumerate(packets, 1):
+    print(f"Packet {idx}:")
+    fixed = verify_and_fix(pkt)
+    blist = list(fixed)
+    for i in range(4, len(blist), 5):  # flip every 5th bit
+        blist[i] = '0' if blist[i] == '1' else '1'
+    # Drop checksum before concatenating
+    corrected_bits += "".join(blist[:-CHECKSUM_BITS])
 
-    if calc_checksum != received_checksum:
-        print(f"Checksum mismatch: calculated {calc_checksum} vs received {received_checksum}. Packet data may be corrupted.")
+print(f"Total corrected stream length: {len(corrected_bits)} bits")
 
-    return packet_bits
+# ─── 6) Image Reconstruction ──────────────────────────────────────────────────
 
-# Expected packet data size and checksum bits
-width = 25
-height = 25
-channels = 3
-bits_per_channel = 3  # 3 bits per R, G, B channel
-bits_per_pixel = channels * bits_per_channel  # 9 bits
-pixels_per_packet = 50  # Define how many pixels per packet for example
-packet_data_bits = pixels_per_packet * bits_per_pixel
-checksum_bits = 8
-expected_packet_length = packet_data_bits + checksum_bits
+# Pad or trim to exact image bit count
+if len(corrected_bits) < TOTAL_IMAGE_BITS:
+    corrected_bits += corrected_bits[-1] * (TOTAL_IMAGE_BITS - len(corrected_bits))
+else:
+    corrected_bits = corrected_bits[:TOTAL_IMAGE_BITS]
 
-# ---------- Process packets: verify, correct length, flip bits ----------
+# Map each 3-bit group to one color channel byte (0–7 → 0–224)
+arr = bytearray()
+for i in range(0, len(corrected_bits), BITS_PER_CHANNEL):
+    chunk = corrected_bits[i:i+BITS_PER_CHANNEL]
+    arr.append(int(chunk, 2) * 32)
 
-corrected_data_bits = ""
-
-for idx, pkt in enumerate(packets):
-    print(f"\nProcessing packet {idx+1} / {len(packets)}")
-    pkt_fixed = verify_and_fix_packet(pkt, expected_packet_length)
-    pkt_corrected = list(pkt_fixed)
-
-    # Flip every 5th bit for error correction (index 4, 9, 14, ...)
-    for i in range(4, len(pkt_corrected), 5):
-        pkt_corrected[i] = '0' if pkt_corrected[i] == '1' else '1'
-
-    corrected_data_bits += "".join(pkt_corrected[:-8])  # exclude checksum bits
-
-print(f"\nTotal corrected bits length: {len(corrected_data_bits)}")
-
-# ---------- Image reconstruction ----------
-
-def binary_to_image(binary_string, width, height_
+img = Image.fromarray(
+    np.array(arr, dtype=np.uint8).reshape((HEIGHT, WIDTH, CHANNELS)),
+    'RGB'
+)
+img.save('output_image_with_checksum.jpg')
+print("Image saved as output_image_with_checksum.jpg")
