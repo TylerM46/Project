@@ -1,0 +1,174 @@
+import pigpio
+import time
+import numpy as np
+from PIL import Image
+from difflib import SequenceMatcher
+
+# ─── Tunable Parameters ────────────────────────────────────────────────────────
+
+# GPIO capture
+GPIO_PIN      = 26      # Pi GPIO pin for optical input
+CAPTURE_TIME  = 0.5     # seconds to record edges
+
+# PLL (bit recovery)
+BIT_LENGTH_US = 50      # nominal bit duration in μs
+
+# Proportional gain: ~10–30% of bit length
+#   • Higher P means faster response to a single bad bit,
+#   • But too high → overshoot and oscillation on a noisy channel.
+PGAIN = 0.15  # try 0.1–0.2
+
+# Integral gain: ~1–5% of P gain
+#   • Slowly accumulates any steady bias (clock skew, temp drift),
+#   • But too high → wind-up and slow oscillation.
+IGAIN = 0.005  # try 0.002–0.01
+
+# Header patterns and matching
+PILOT_PATTERN = "110010101010101010101100"  # long initial sync
+PACKET_HEADER = "1010101100"                # short, repeated header
+HEADER_THRESH = 0.85    # ≥85% match needed for pilot; warnings only for packets
+WINDOW_RADIUS = BIT_LENGTH_US  # ±1 bit-length (~50 μs) around expected header
+
+# Image & packet layout
+WIDTH, HEIGHT, CHANNELS    = 25, 25, 3
+BITS_PER_CHANNEL           = 3
+BITS_PER_PIXEL             = CHANNELS * BITS_PER_CHANNEL  # = 9 bits per pixel
+PIXELS_PER_PACKET          = 50
+PACKET_DATA_BITS           = PIXELS_PER_PACKET * BITS_PER_PIXEL  # = 50×9 = 450 bits
+EXPECTED_PACKET_LENGTH     = PACKET_DATA_BITS
+TOTAL_IMAGE_BITS           = WIDTH * HEIGHT * BITS_PER_PIXEL    # 25×25×9 = 5625 bits
+
+# ─── 1) Capture edges & levels ─────────────────────────────────────────────────
+
+pi = pigpio.pi()
+if not pi.connected:
+    exit()
+pi.set_mode(GPIO_PIN, pigpio.INPUT)
+
+edgeTimes = []
+BitArray   = []
+def read_gpio(gpio, level, tick):
+    edgeTimes.append(tick)
+    BitArray.append(level)
+
+cb = pi.callback(GPIO_PIN, pigpio.EITHER_EDGE, read_gpio)
+time.sleep(CAPTURE_TIME)
+cb.cancel()
+pi.stop()
+
+# ─── 2) PLL Decoder ─────────────────────────────────────────────────────────────
+
+def pll_decode(times, levels, bitlen_us):
+    bits, remainder = [], 0.0
+    integral = 0.0
+    i = 0
+    while i < len(times) - 1:
+        interval = (times[i+1] - times[i]) + remainder
+        covered  = interval / bitlen_us
+        count    = int(covered)
+        remainder = interval - count * bitlen_us
+
+        # Append 'count' bits at current level (inverted logic)
+        for _ in range(count):
+            bits.append(abs(levels[i] - 1))
+
+        if count > 0:
+            measured   = interval / count
+            error      = measured - bitlen_us
+            integral  += error
+            correction = PGAIN * error + IGAIN * integral
+            remainder -= correction  # adjust for next interval
+
+        i += 1
+
+    return bits
+
+bitData   = pll_decode(edgeTimes, BitArray, BIT_LENGTH_US)
+bitString = ''.join(map(str, bitData))
+print(f"Decoded bitstream length: {len(bitString)} bits")
+
+# ─── 3) Header Extraction ──────────────────────────────────────────────────────
+
+def find_initial_pilot(stream):
+    L = len(PILOT_PATTERN)
+    for i in range(len(stream) - L + 1):
+        if SequenceMatcher(None, stream[i:i+L], PILOT_PATTERN).ratio() >= HEADER_THRESH:
+            return i
+    raise RuntimeError("Pilot not found — cannot sync")
+
+def extract_packets(stream):
+    # 3.1 Global sync with pilot
+    pilot_idx = find_initial_pilot(stream)
+    print(f"Pilot found at bit index: {pilot_idx}")
+    curr_hdr = pilot_idx
+    packets  = []
+    pkt_total_len = len(PACKET_HEADER) + PACKET_DATA_BITS
+
+    # 3.2 Windowed packet-header search
+    while True:
+        expected = curr_hdr + pkt_total_len
+        if expected + len(PACKET_HEADER) > len(stream):
+            break
+
+        start = max(expected - WINDOW_RADIUS, 0)
+        end   = min(expected + WINDOW_RADIUS, len(stream) - len(PACKET_HEADER))
+        best_ratio, best_idx = 0.0, None
+
+        for j in range(start, end + 1):
+            ratio = SequenceMatcher(None,
+                                    stream[j:j+len(PACKET_HEADER)],
+                                    PACKET_HEADER).ratio()
+            if ratio > best_ratio:
+                best_ratio, best_idx = ratio, j
+
+        # Warn if header heavily corrupted, but still proceed
+        if best_ratio < HEADER_THRESH:
+            print(f"  [!] Header below threshold ({best_ratio:.2f}); guessing at {best_idx}")
+
+        # Extract packet bits between headers
+        data_start = curr_hdr + len(PACKET_HEADER)
+        packets.append(stream[data_start:best_idx])
+        curr_hdr = best_idx
+
+    # 3.3 Handle final packet remainder
+    last_start = curr_hdr + len(PACKET_HEADER)
+    if last_start < len(stream):
+        packets.append(stream[last_start:])
+
+    return packets
+
+packets = extract_packets(bitString)
+print(f"Extracted {len(packets)} packets")
+
+# ─── 4) Packet Correction & 5th-Bit Flip ────────────────────────────────────────
+
+corrected_bits = ""
+for idx, pkt in enumerate(packets, 1):
+    print(f"Packet {idx}:")
+    blist = list(pkt)
+    for i in range(4, len(blist), 5):  # flip every 5th bit
+        blist[i] = '0' if blist[i] == '1' else '1'
+    corrected_bits += "".join(blist)
+
+print(f"Total corrected stream length: {len(corrected_bits)} bits")
+
+# ─── 5) Image Reconstruction ───────────────────────────────────────────────────
+
+# Pad or trim to exact image bit count
+if len(corrected_bits) < TOTAL_IMAGE_BITS:
+    corrected_bits += corrected_bits[-1] * (TOTAL_IMAGE_BITS - len(corrected_bits))
+else:
+    corrected_bits = corrected_bits[:TOTAL_IMAGE_BITS]
+
+# Map each 3-bit group to one color channel byte (0–7 → 0–224)
+arr = bytearray()
+for i in range(0, len(corrected_bits), BITS_PER_CHANNEL):
+    chunk = corrected_bits[i:i+BITS_PER_CHANNEL]
+    arr.append(int(chunk, 2) * 32)
+
+img = Image.fromarray(
+    np.array(arr, dtype=np.uint8).reshape((HEIGHT, WIDTH, CHANNELS)),
+    'RGB'
+)
+img.save('output_image_no_checksum.jpg')
+print("Image saved as output_image_no_checksum.jpg")
